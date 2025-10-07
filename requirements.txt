@@ -98,3 +98,9 @@ uvicorn==0.37.0
 watchdog==6.0.0
 win32_setctime==1.2.0
 xgboost==3.0.5
+fastapi
+uvicorn
+xgboost
+pandas
+scikit-learn
+streamlit

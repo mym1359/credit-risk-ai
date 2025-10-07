@@ -1,87 +1,102 @@
-<<<<<<< HEAD
-# Credit Risk AI 🇺🇸🇦🇺
+ README Content (English Version)
+# 🧠 Credit Risk AI – Migration-Ready and Deployable
 
-**AI-powered credit risk scoring system for financial transparency and national interest.**
-
----
-
-## 🎯 Project Goals
-
-- Reduce systemic financial risk through AI-driven credit scoring
-- Support underserved populations with alternative data
-- Align with national interest priorities for NIW/NIV migration
-- Provide scalable, secure, and interpretable models for US and Australian financial institutions
+An intelligent credit scoring project based on demographic data from the United States and Australia, designed to showcase technical expertise in banking, AI, and global deployment for professional and migration purposes.
 
 ---
 
-## 🧠 Key Features
+## 🚀 Features
 
-- Predictive modeling using ML/DL (XGBoost, LightGBM, PyTorch)
-- Integration of alternative data (non-traditional financial signals)
-- REST API for banking systems and credit platforms
-- Interactive dashboard for financial analysts and regulators
-- Bilingual documentation (English & Persian)
-- Fully Dockerized and CI/CD-enabled for secure deployment
-
----
-
-## 🛠 Tech Stack
-
-| Layer        | Tools & Libraries                  |
-|--------------|------------------------------------|
-| Language     | Python 3.11+                       |
-| ML Models    | XGBoost, LightGBM, PyTorch         |
-| API          | FastAPI                            |
-| Dashboard    | Streamlit                          |
-| CI/CD        | GitHub Actions, Docker             |
-| Security     | SSH, JWT, HTTPS                    |
+- Credit scoring model using XGBoost based on public data
+- FastAPI-powered REST API for real-time scoring
+- Interactive dashboard built with Streamlit
+- Dockerized for professional deployment
+- Ready for CI/CD integration via GitHub Actions
 
 ---
 
-## 📦 Project Structure
-credit-risk-ai/ ├── data/                   # Raw and processed datasets ├── notebooks/              # Jupyter notebooks for EDA and prototyping ├── src/ │   ├── data_preprocessing/ # Feature engineering and cleaning │   ├── models/             # ML/DL models and training scripts │   ├── api/                # FastAPI endpoints │   └── dashboard/          # Streamlit dashboard code ├── tests/                  # Unit and integration tests ├── requirements.txt        # Python dependencies ├── Dockerfile              # Containerization setup ├── .github/workflows/      # CI/CD pipelines └── README.md               # Project overview
+## 📊 Data Sources
+
+- `us_census_2021.csv`: Unemployment and poverty rates by U.S. state
+- `aus_population_stats.csv`: Equivalent data for Australian states and territories
 
 ---
 
-## 🚀 Deployment
+## 🧠 Model
 
-To run locally:
+- Algorithm: XGBoost
+- Features: Unemployment rate, Poverty rate
+- Output: Credit risk classification (Low Risk / High Risk)
 
-```bash
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+---
 
-# Install dependencies
-pip install -r requirements.txt
+## 🔌 API
 
-# Run API
-uvicorn src.api.main:app --reload
+- Endpoint: `/predict/`
+- Input:
+  ```json
+  {
+    "unemployment_rate": 4.2,
+    "poverty_rate": 13.8
+  }
 
-# Run dashboard
+
+- Output:
+{
+  "prediction": 1,
+  "risk_level": "Low Risk"
+}
+
+
+
+📺 Dashboard
+- Run Streamlit:
 streamlit run src/dashboard/app.py
+- Features:
+- Interactive form for inputting unemployment and poverty rates
+- Real-time credit risk prediction
+- Extendable with charts, maps, and country comparisons
+
+🐳 Docker
+- Build container:
+docker build -t credit-risk-api .
+- Run API in container:
+docker run -p 8000:8000 credit-risk-api
+- Access API:
+http://localhost:8000/docs
 
 
 
-🔐 Security Notes
-- All secrets and credentials are stored in .env and excluded via .gitignore
-- SSH keys are used for CI/CD authentication
-- JWT tokens secure API endpoints
-- HTTPS enforced in production
+📦 Project Structure
+credit-risk-ai/
+├── data/
+│   ├── us_census_2021.csv
+│   └── aus_population_stats.csv
+├── src/
+│   ├── models/
+│   │   └── base_model.py
+│   ├── api/
+│   │   └── main.py
+│   └── dashboard/
+│       └── app.py
+├── Dockerfile
+├── requirements.txt
+└── README.md
 
-📄 License
-MIT License
 
-👤 Author
+
+✈️ Migration Purpose
+This project supports professional migration to the United States and Australia by demonstrating:
+- AI and banking domain expertise
+- End-to-end project design and deployment
+- Technical documentation and global readiness
+- Real-world application of credit scoring logic
+
+👨‍💻 Developer
 Mohammad Yadollah Moghadam
-Banking Expert & Web Developer | Maskan Bank
-GitHub: mym1359
-LinkedIn: mym1980
+Banking Expert & Web Developer at Maskan Bank
+📍 Iran
+🌐 GitHub: github.com/mym1359
 
-🇮🇷 نسخه فارسی
-این پروژه با هدف کاهش ریسک سیستماتیک مالی و شفاف‌سازی اعتبارسنجی طراحی شده است. با استفاده از هوش مصنوعی و داده‌های جایگزین، امکان ارزیابی دقیق‌تر متقاضیان وام فراهم می‌شود. این سیستم می‌تواند به عنوان یک ابزار ملی در آمریکا و استرالیا مورد استفاده قرار گیرد و در پرونده مهاجرت تخصصی (NIW/NIV) نقش کلیدی ایفا کند.
-
-=======
-# credt-risk-ai
- AI-powered credit risk scoring system for financial transparency and national interest (NIW/NIV)
->>>>>>> 7966ae0dd1457897a8645cfebdc9bd7dd46b5be2
+📢 License & Usage
+This project is intended for educational, migration, and professional demonstration purposes. Commercial or banking use requires permission from the original developer.
