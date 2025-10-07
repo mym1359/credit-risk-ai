@@ -104,3 +104,4 @@ xgboost
 pandas
 scikit-learn
 streamlit
+python-jose==3.3.0
