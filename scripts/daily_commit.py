@@ -4,11 +4,21 @@ from datetime import datetime
 
 TARGET_FILE = "src/utils/dummy.py"
 MESSAGES = [
-    "📝 Add TODO for future validation",
-    "🔧 Minor refactor for readability",
-    "📦 Update placeholder for future logic",
-    "🚧 Work in progress on helper module",
-    "✅ Add comment for future test case"
+    "📝 Add TODO for input validation",
+    "🔧 Refactor variable naming for clarity",
+    "✅ Add placeholder test for edge case",
+    "📚 Update README with usage example",
+    "🚧 Work in progress on dashboard layout",
+    "🔐 Add note for JWT expiration handling",
+    "📦 Move helper functions to utils module",
+    "⚙️ Tweak GitHub Actions trigger time",
+    "🐳 Add comment for Docker healthcheck",
+    "📦 Update requirements for future modules",
+    "🧪 Prepare test case for invalid token",
+    "🧠 Add note for future ML model tuning",
+    "🗂️ Organize folders for CI/CD clarity",
+    "🧰 Add helper stub for Streamlit form",
+    "🧾 Add comment for .env.example usage"
 ]
 
 def touch_file():
