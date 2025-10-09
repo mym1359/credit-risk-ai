@@ -1,0 +1,37 @@
+name: Daily Activity
+
+on:
+  schedule:
+    - cron: '30 6 * * *'   # 06:30 UTC → 11:00 ایران
+    - cron: '15 10 * * *'  # 10:15 UTC → 14:45 ایران
+    - cron: '45 13 * * *'  # 13:45 UTC → 18:15 ایران
+    - cron: '00 17 * * *'  # 17:00 UTC → 21:30 ایران
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: ⬇️ Checkout repo
+      uses: actions/checkout@v4
+
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+
+    - name: 📦 Install dependencies
+      run: pip install python-dotenv
+
+    - name: 📝 Run daily commit script
+      run: python scripts/daily_commit.py
+
+    - name: 🔐 Push changes
+      run: |
+        git config user.name "mym1359"
+        git config user.email "mym1359@gmail.com"
+        git add .
+        git commit -m "🤖 Daily activity update"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
