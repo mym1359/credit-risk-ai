@@ -1,7 +1,8 @@
 name: Daily Activity
 
 on:
-  schedule:
+  workflow_dispatch:  # اجرای دستی از GitHub
+  schedule:           # اجرای خودکار در ساعت‌های مختلف
     - cron: '30 6 * * *'   # 06:30 UTC → 11:00 ایران
     - cron: '15 10 * * *'  # 10:15 UTC → 14:45 ایران
     - cron: '45 13 * * *'  # 13:45 UTC → 18:15 ایران
