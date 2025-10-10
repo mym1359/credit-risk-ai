@@ -5,3 +5,4 @@
 # 🧠 Add note for future ML model tuning — 2025-10-09T13:50:25.248306
 # 🧾 Add comment for .env.example usage — 2025-10-09T17:14:36.340206
 # 🐳 Add comment for Docker healthcheck — 2025-10-10T06:48:10.984213
+# 🔐 Add note for JWT expiration handling — 2025-10-10T10:33:31.909602
