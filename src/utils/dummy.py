@@ -7,3 +7,4 @@
 # 🐳 Add comment for Docker healthcheck — 2025-10-10T06:48:10.984213
 # 🔐 Add note for JWT expiration handling — 2025-10-10T10:33:31.909602
 # 🔐 Add note for JWT expiration handling — 2025-10-10T13:47:33.387323
+# 📚 Update README with usage example — 2025-10-10T17:14:16.444338
