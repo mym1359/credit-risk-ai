@@ -8,3 +8,4 @@
 # 🔐 Add note for JWT expiration handling — 2025-10-10T10:33:31.909602
 # 🔐 Add note for JWT expiration handling — 2025-10-10T13:47:33.387323
 # 📚 Update README with usage example — 2025-10-10T17:14:16.444338
+# 📦 Move helper functions to utils module — 2025-10-11T06:43:19.951141
