@@ -12,3 +12,4 @@
 # 🐳 Add comment for Docker healthcheck — 2025-10-11T10:29:55.058223
 # 🧰 Add helper stub for Streamlit form — 2025-10-11T13:46:01.528022
 # 🧰 Add helper stub for Streamlit form — 2025-10-11T17:11:49.366846
+# 🔐 Add note for JWT expiration handling — 2025-10-12T06:43:24.693166
