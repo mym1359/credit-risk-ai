@@ -28,3 +28,4 @@
 # ✅ Add placeholder test for edge case — 2025-10-15T10:36:03.846610
 # 🐳 Add comment for Docker healthcheck — 2025-10-15T13:51:06.968964
 # 📦 Update requirements for future modules — 2025-10-15T17:14:49.607701
+# 🔐 Add note for JWT expiration handling — 2025-10-16T06:47:42.767967
