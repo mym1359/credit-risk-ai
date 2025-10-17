@@ -34,3 +34,4 @@
 # 📦 Move helper functions to utils module — 2025-10-16T17:14:44.277355
 # 🧪 Prepare test case for invalid token — 2025-10-17T06:46:53.294040
 # 🚧 Work in progress on dashboard layout — 2025-10-17T10:33:52.869190
+# 🐳 Add comment for Docker healthcheck — 2025-10-17T13:47:34.937447
