@@ -49,3 +49,4 @@
 # 📦 Move helper functions to utils module — 2025-10-20T13:49:38.258544
 # 🔧 Refactor variable naming for clarity — 2025-10-20T17:14:09.627847
 # 📚 Update README with usage example — 2025-10-21T06:48:10.766860
+# 📝 Add TODO for input validation — 2025-10-21T10:34:59.627303
