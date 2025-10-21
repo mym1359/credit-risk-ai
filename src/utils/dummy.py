@@ -51,3 +51,4 @@
 # 📚 Update README with usage example — 2025-10-21T06:48:10.766860
 # 📝 Add TODO for input validation — 2025-10-21T10:34:59.627303
 # 🐳 Add comment for Docker healthcheck — 2025-10-21T13:53:05.801676
+# 🧾 Add comment for .env.example usage — 2025-10-21T17:15:14.463672
