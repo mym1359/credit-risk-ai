@@ -66,3 +66,4 @@
 # 🚧 Work in progress on dashboard layout — 2025-10-24T17:14:23.468748
 # 🚧 Work in progress on dashboard layout — 2025-10-25T06:44:03.133456
 # 🧾 Add comment for .env.example usage — 2025-10-25T10:30:44.955643
+# 📚 Update README with usage example — 2025-10-25T13:45:52.992773
