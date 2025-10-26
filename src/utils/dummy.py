@@ -71,3 +71,4 @@
 # ✅ Add placeholder test for edge case — 2025-10-26T06:46:03.206268
 # 📦 Move helper functions to utils module — 2025-10-26T10:31:21.839304
 # 🧠 Add note for future ML model tuning — 2025-10-26T13:46:10.968706
+# 🐳 Add comment for Docker healthcheck — 2025-10-26T17:13:05.525524
