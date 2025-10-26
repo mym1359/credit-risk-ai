@@ -69,3 +69,4 @@
 # 📚 Update README with usage example — 2025-10-25T13:45:52.992773
 # ✅ Add placeholder test for edge case — 2025-10-25T17:12:38.672235
 # ✅ Add placeholder test for edge case — 2025-10-26T06:46:03.206268
+# 📦 Move helper functions to utils module — 2025-10-26T10:31:21.839304
