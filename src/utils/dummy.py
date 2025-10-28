@@ -78,3 +78,4 @@
 # 🔧 Refactor variable naming for clarity — 2025-10-27T17:14:11.588734
 # 🗂️ Organize folders for CI/CD clarity — 2025-10-28T06:50:38.466195
 # 🔧 Refactor variable naming for clarity — 2025-10-28T10:36:15.589246
+# 📚 Update README with usage example — 2025-10-28T13:50:57.472895
