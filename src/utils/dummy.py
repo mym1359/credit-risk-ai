@@ -82,3 +82,4 @@
 # 🧰 Add helper stub for Streamlit form — 2025-10-28T17:15:58.037981
 # 🔧 Refactor variable naming for clarity — 2025-10-29T06:50:57.194724
 # 🧾 Add comment for .env.example usage — 2025-10-29T10:36:05.716890
+# 📦 Move helper functions to utils module — 2025-10-29T13:53:01.699390
