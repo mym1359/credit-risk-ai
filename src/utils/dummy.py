@@ -92,3 +92,4 @@
 # 🧰 Add helper stub for Streamlit form — 2025-10-31T10:34:52.819362
 # ✅ Add placeholder test for edge case — 2025-10-31T13:49:35.502889
 # ⚙️ Tweak GitHub Actions trigger time — 2025-10-31T17:15:26.530273
+# 🐳 Add comment for Docker healthcheck — 2025-11-01T06:44:46.360883
