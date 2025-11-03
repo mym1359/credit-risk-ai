@@ -101,3 +101,4 @@
 # ✅ Add placeholder test for edge case — 2025-11-02T13:45:54.798792
 # ✅ Add placeholder test for edge case — 2025-11-02T17:12:55.599347
 # 🐳 Add comment for Docker healthcheck — 2025-11-03T06:51:01.292892
+# 📦 Move helper functions to utils module — 2025-11-03T10:38:07.940987
