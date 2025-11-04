@@ -104,3 +104,4 @@
 # 📦 Move helper functions to utils module — 2025-11-03T10:38:07.940987
 # 🔧 Refactor variable naming for clarity — 2025-11-03T13:50:28.698990
 # 🔧 Refactor variable naming for clarity — 2025-11-03T17:14:42.406764
+# 📚 Update README with usage example — 2025-11-04T06:50:20.612169
