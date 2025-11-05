@@ -108,3 +108,4 @@
 # 📚 Update README with usage example — 2025-11-04T10:38:05.586212
 # 🧰 Add helper stub for Streamlit form — 2025-11-04T13:52:43.575324
 # 📚 Update README with usage example — 2025-11-04T17:16:05.454095
+# 📦 Move helper functions to utils module — 2025-11-05T06:49:43.250670
