@@ -110,3 +110,4 @@
 # 📚 Update README with usage example — 2025-11-04T17:16:05.454095
 # 📦 Move helper functions to utils module — 2025-11-05T06:49:43.250670
 # 🔧 Refactor variable naming for clarity — 2025-11-05T10:36:25.073988
+# 🔐 Add note for JWT expiration handling — 2025-11-05T13:51:54.259922
