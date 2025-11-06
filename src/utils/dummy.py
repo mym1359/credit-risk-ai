@@ -112,3 +112,4 @@
 # 🔧 Refactor variable naming for clarity — 2025-11-05T10:36:25.073988
 # 🔐 Add note for JWT expiration handling — 2025-11-05T13:51:54.259922
 # 🧰 Add helper stub for Streamlit form — 2025-11-05T17:16:06.175688
+# 🗂️ Organize folders for CI/CD clarity — 2025-11-06T06:50:59.503417
