@@ -114,3 +114,4 @@
 # 🧰 Add helper stub for Streamlit form — 2025-11-05T17:16:06.175688
 # 🗂️ Organize folders for CI/CD clarity — 2025-11-06T06:50:59.503417
 # ✅ Add placeholder test for edge case — 2025-11-06T10:36:41.938207
+# 📦 Move helper functions to utils module — 2025-11-06T13:51:51.237829
