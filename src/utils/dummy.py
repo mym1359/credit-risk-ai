@@ -134,3 +134,4 @@
 # 🚧 Work in progress on dashboard layout — 2025-11-10T17:14:58.015058
 # ✅ Add placeholder test for edge case — 2025-11-11T06:50:57.918648
 # 🧰 Add helper stub for Streamlit form — 2025-11-11T10:36:50.180943
+# 📦 Update requirements for future modules — 2025-11-11T13:50:26.047962
