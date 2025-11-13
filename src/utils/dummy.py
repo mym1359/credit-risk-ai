@@ -142,3 +142,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2025-11-12T17:17:39.986768
 # 🧪 Prepare test case for invalid token — 2025-11-13T06:50:30.144425
 # 🔐 Add note for JWT expiration handling — 2025-11-13T10:37:20.677443
+# 🗂️ Organize folders for CI/CD clarity — 2025-11-13T13:52:49.284914
