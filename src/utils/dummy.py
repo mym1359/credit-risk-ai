@@ -149,3 +149,4 @@
 # 🧪 Prepare test case for invalid token — 2025-11-14T13:49:08.909819
 # 🚧 Work in progress on dashboard layout — 2025-11-14T17:14:29.515459
 # 📦 Update requirements for future modules — 2025-11-15T06:45:43.595077
+# 🧾 Add comment for .env.example usage — 2025-11-15T10:31:42.826002
