@@ -154,3 +154,4 @@
 # 🧰 Add helper stub for Streamlit form — 2025-11-15T17:12:43.543464
 # 🔐 Add note for JWT expiration handling — 2025-11-16T06:47:01.322888
 # 📚 Update README with usage example — 2025-11-16T10:32:10.310982
+# 🧪 Prepare test case for invalid token — 2025-11-16T13:45:31.199344
