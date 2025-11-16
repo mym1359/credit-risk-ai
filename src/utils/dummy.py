@@ -152,3 +152,4 @@
 # 🧾 Add comment for .env.example usage — 2025-11-15T10:31:42.826002
 # ✅ Add placeholder test for edge case — 2025-11-15T13:45:24.325610
 # 🧰 Add helper stub for Streamlit form — 2025-11-15T17:12:43.543464
+# 🔐 Add note for JWT expiration handling — 2025-11-16T06:47:01.322888
