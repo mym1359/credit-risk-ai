@@ -157,3 +157,4 @@
 # 🧪 Prepare test case for invalid token — 2025-11-16T13:45:31.199344
 # ⚙️ Tweak GitHub Actions trigger time — 2025-11-16T17:13:30.708794
 # 📝 Add TODO for input validation — 2025-11-17T06:50:52.435519
+# 📦 Move helper functions to utils module — 2025-11-17T10:37:26.261814
