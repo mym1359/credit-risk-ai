@@ -156,3 +156,4 @@
 # 📚 Update README with usage example — 2025-11-16T10:32:10.310982
 # 🧪 Prepare test case for invalid token — 2025-11-16T13:45:31.199344
 # ⚙️ Tweak GitHub Actions trigger time — 2025-11-16T17:13:30.708794
+# 📝 Add TODO for input validation — 2025-11-17T06:50:52.435519
