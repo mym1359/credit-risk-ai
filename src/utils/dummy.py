@@ -161,3 +161,4 @@
 # 🧪 Prepare test case for invalid token — 2025-11-17T13:51:31.490064
 # 📦 Update requirements for future modules — 2025-11-17T17:16:17.885394
 # 🗂️ Organize folders for CI/CD clarity — 2025-11-18T06:49:37.356832
+# 📚 Update README with usage example — 2025-11-18T10:37:33.365895
