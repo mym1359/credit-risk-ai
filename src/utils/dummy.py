@@ -163,3 +163,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2025-11-18T06:49:37.356832
 # 📚 Update README with usage example — 2025-11-18T10:37:33.365895
 # 📝 Add TODO for input validation — 2025-11-18T13:51:21.117587
+# 🧾 Add comment for .env.example usage — 2025-11-18T17:16:13.266373
