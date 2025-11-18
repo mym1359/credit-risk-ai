@@ -160,3 +160,4 @@
 # 📦 Move helper functions to utils module — 2025-11-17T10:37:26.261814
 # 🧪 Prepare test case for invalid token — 2025-11-17T13:51:31.490064
 # 📦 Update requirements for future modules — 2025-11-17T17:16:17.885394
+# 🗂️ Organize folders for CI/CD clarity — 2025-11-18T06:49:37.356832
