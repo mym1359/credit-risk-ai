@@ -164,3 +164,4 @@
 # 📚 Update README with usage example — 2025-11-18T10:37:33.365895
 # 📝 Add TODO for input validation — 2025-11-18T13:51:21.117587
 # 🧾 Add comment for .env.example usage — 2025-11-18T17:16:13.266373
+# 🔐 Add note for JWT expiration handling — 2025-11-19T06:49:46.155312
