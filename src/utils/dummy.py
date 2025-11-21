@@ -173,3 +173,4 @@
 # 🚧 Work in progress on dashboard layout — 2025-11-20T13:48:40.535381
 # ⚙️ Tweak GitHub Actions trigger time — 2025-11-20T17:13:30.361802
 # 🚧 Work in progress on dashboard layout — 2025-11-21T06:51:13.255506
+# 📚 Update README with usage example — 2025-11-21T10:35:27.493889
