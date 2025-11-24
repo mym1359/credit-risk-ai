@@ -186,3 +186,4 @@
 # 🧪 Prepare test case for invalid token — 2025-11-23T17:13:19.628143
 # 📦 Update requirements for future modules — 2025-11-24T06:50:56.801932
 # 🧪 Prepare test case for invalid token — 2025-11-24T10:38:14.688757
+# 📚 Update README with usage example — 2025-11-24T13:53:42.524205
