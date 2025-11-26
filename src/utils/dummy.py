@@ -194,3 +194,4 @@
 # 📝 Add TODO for input validation — 2025-11-25T17:17:11.380845
 # 📦 Move helper functions to utils module — 2025-11-26T06:51:46.218965
 # 🗂️ Organize folders for CI/CD clarity — 2025-11-26T10:37:22.435819
+# 📦 Update requirements for future modules — 2025-11-26T13:53:48.839289
