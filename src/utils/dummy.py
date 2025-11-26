@@ -193,3 +193,4 @@
 # 🧪 Prepare test case for invalid token — 2025-11-25T13:52:50.780231
 # 📝 Add TODO for input validation — 2025-11-25T17:17:11.380845
 # 📦 Move helper functions to utils module — 2025-11-26T06:51:46.218965
+# 🗂️ Organize folders for CI/CD clarity — 2025-11-26T10:37:22.435819
