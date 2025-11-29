@@ -204,3 +204,4 @@
 # 📚 Update README with usage example — 2025-11-28T10:36:09.883594
 # 📚 Update README with usage example — 2025-11-28T13:49:51.996634
 # 📦 Update requirements for future modules — 2025-11-28T17:14:17.601654
+# 📦 Move helper functions to utils module — 2025-11-29T06:48:34.163001
