@@ -213,3 +213,4 @@
 # ✅ Add placeholder test for edge case — 2025-11-30T13:46:40.448313
 # 🧾 Add comment for .env.example usage — 2025-11-30T17:13:58.701150
 # 🔧 Refactor variable naming for clarity — 2025-12-01T06:54:07.507422
+# 🔐 Add note for JWT expiration handling — 2025-12-01T10:41:07.155779
