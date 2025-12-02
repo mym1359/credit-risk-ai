@@ -219,3 +219,4 @@
 # 📝 Add TODO for input validation — 2025-12-02T06:53:09.492678
 # ⚙️ Tweak GitHub Actions trigger time — 2025-12-02T10:39:07.668264
 # ⚙️ Tweak GitHub Actions trigger time — 2025-12-02T13:55:53.251504
+# 📚 Update README with usage example — 2025-12-02T17:19:42.513182
