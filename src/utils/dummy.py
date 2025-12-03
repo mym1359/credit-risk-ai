@@ -223,3 +223,4 @@
 # 🧪 Prepare test case for invalid token — 2025-12-03T06:52:56.401755
 # 📝 Add TODO for input validation — 2025-12-03T10:41:26.600497
 # ✅ Add placeholder test for edge case — 2025-12-03T13:56:24.406547
+# 🐳 Add comment for Docker healthcheck — 2025-12-03T17:19:54.501686
