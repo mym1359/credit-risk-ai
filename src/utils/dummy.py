@@ -230,3 +230,4 @@
 # 📚 Update README with usage example — 2025-12-04T17:19:35.737434
 # 🔐 Add note for JWT expiration handling — 2025-12-05T06:52:24.294804
 # 🧠 Add note for future ML model tuning — 2025-12-05T10:36:32.764130
+# 🗂️ Organize folders for CI/CD clarity — 2025-12-05T13:52:18.382463
