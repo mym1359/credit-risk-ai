@@ -237,3 +237,4 @@
 # 🧰 Add helper stub for Streamlit form — 2025-12-06T13:46:25.719538
 # 🧾 Add comment for .env.example usage — 2025-12-06T17:13:50.517956
 # 🧰 Add helper stub for Streamlit form — 2025-12-07T06:47:23.658972
+# 🧾 Add comment for .env.example usage — 2025-12-07T10:31:49.922629
