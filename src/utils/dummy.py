@@ -245,3 +245,4 @@
 # 📦 Update requirements for future modules — 2025-12-08T13:53:58.057072
 # ✅ Add placeholder test for edge case — 2025-12-08T17:17:11.787464
 # 📦 Move helper functions to utils module — 2025-12-09T06:53:39.035071
+# 🧾 Add comment for .env.example usage — 2025-12-09T10:40:25.269427
