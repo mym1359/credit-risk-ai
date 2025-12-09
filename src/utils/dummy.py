@@ -246,3 +246,4 @@
 # ✅ Add placeholder test for edge case — 2025-12-08T17:17:11.787464
 # 📦 Move helper functions to utils module — 2025-12-09T06:53:39.035071
 # 🧾 Add comment for .env.example usage — 2025-12-09T10:40:25.269427
+# 🐳 Add comment for Docker healthcheck — 2025-12-09T13:55:17.099786
