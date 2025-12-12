@@ -258,3 +258,4 @@
 # 🚧 Work in progress on dashboard layout — 2025-12-11T17:22:48.834075
 # 🐳 Add comment for Docker healthcheck — 2025-12-12T06:54:17.028723
 # ✅ Add placeholder test for edge case — 2025-12-12T10:38:49.718251
+# 🧾 Add comment for .env.example usage — 2025-12-12T13:54:43.695613
