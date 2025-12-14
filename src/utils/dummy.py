@@ -265,3 +265,4 @@
 # 🧠 Add note for future ML model tuning — 2025-12-13T13:47:01.503735
 # 🔧 Refactor variable naming for clarity — 2025-12-13T17:14:33.606576
 # 📦 Move helper functions to utils module — 2025-12-14T06:50:05.955697
+# 🧰 Add helper stub for Streamlit form — 2025-12-14T10:34:24.981478
