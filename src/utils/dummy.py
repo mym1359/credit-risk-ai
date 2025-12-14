@@ -264,3 +264,4 @@
 # 📦 Update requirements for future modules — 2025-12-13T10:33:53.800561
 # 🧠 Add note for future ML model tuning — 2025-12-13T13:47:01.503735
 # 🔧 Refactor variable naming for clarity — 2025-12-13T17:14:33.606576
+# 📦 Move helper functions to utils module — 2025-12-14T06:50:05.955697
