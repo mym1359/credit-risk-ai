@@ -268,3 +268,4 @@
 # 🧰 Add helper stub for Streamlit form — 2025-12-14T10:34:24.981478
 # 🧰 Add helper stub for Streamlit form — 2025-12-14T13:47:41.820951
 # 🔐 Add note for JWT expiration handling — 2025-12-14T17:14:21.533766
+# 🧾 Add comment for .env.example usage — 2025-12-15T06:55:51.794925
