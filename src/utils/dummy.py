@@ -291,3 +291,4 @@
 # 🐳 Add comment for Docker healthcheck — 2025-12-20T06:50:15.955595
 # 📦 Update requirements for future modules — 2025-12-20T10:33:50.680742
 # 📦 Move helper functions to utils module — 2025-12-20T13:47:42.352979
+# 🧪 Prepare test case for invalid token — 2025-12-20T17:13:52.960029
