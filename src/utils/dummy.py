@@ -295,3 +295,4 @@
 # 🔐 Add note for JWT expiration handling — 2025-12-21T06:50:36.924226
 # 📦 Move helper functions to utils module — 2025-12-21T10:34:51.247988
 # 📦 Move helper functions to utils module — 2025-12-21T13:48:15.610799
+# 🧰 Add helper stub for Streamlit form — 2025-12-21T17:14:21.996192
