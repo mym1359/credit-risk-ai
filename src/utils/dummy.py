@@ -293,3 +293,4 @@
 # 📦 Move helper functions to utils module — 2025-12-20T13:47:42.352979
 # 🧪 Prepare test case for invalid token — 2025-12-20T17:13:52.960029
 # 🔐 Add note for JWT expiration handling — 2025-12-21T06:50:36.924226
+# 📦 Move helper functions to utils module — 2025-12-21T10:34:51.247988
