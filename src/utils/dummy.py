@@ -302,3 +302,4 @@
 # ✅ Add placeholder test for edge case — 2025-12-22T17:16:00.322671
 # 📚 Update README with usage example — 2025-12-23T06:55:05.136648
 # 🧾 Add comment for .env.example usage — 2025-12-23T10:39:17.453436
+# 🔐 Add note for JWT expiration handling — 2025-12-23T13:55:24.611288
