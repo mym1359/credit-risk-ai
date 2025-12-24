@@ -306,3 +306,4 @@
 # 🧠 Add note for future ML model tuning — 2025-12-23T17:17:43.156675
 # 🧠 Add note for future ML model tuning — 2025-12-24T06:55:02.216379
 # 📚 Update README with usage example — 2025-12-24T10:36:44.350189
+# 🧪 Prepare test case for invalid token — 2025-12-24T13:51:17.647363
