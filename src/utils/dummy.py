@@ -308,3 +308,4 @@
 # 📚 Update README with usage example — 2025-12-24T10:36:44.350189
 # 🧪 Prepare test case for invalid token — 2025-12-24T13:51:17.647363
 # 📦 Move helper functions to utils module — 2025-12-24T17:14:52.551259
+# 🐳 Add comment for Docker healthcheck — 2025-12-25T06:53:54.982334
