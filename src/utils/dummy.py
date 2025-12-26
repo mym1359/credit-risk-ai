@@ -314,3 +314,4 @@
 # 📝 Add TODO for input validation — 2025-12-25T17:15:30.842017
 # 🧪 Prepare test case for invalid token — 2025-12-26T06:53:28.548916
 # 🧠 Add note for future ML model tuning — 2025-12-26T10:36:37.536174
+# 🧾 Add comment for .env.example usage — 2025-12-26T13:52:07.507539
