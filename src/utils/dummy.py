@@ -326,3 +326,4 @@
 # 🚧 Work in progress on dashboard layout — 2025-12-28T17:14:44.839701
 # 🐳 Add comment for Docker healthcheck — 2025-12-29T06:57:28.498933
 # 🚧 Work in progress on dashboard layout — 2025-12-29T10:40:15.154204
+# 🧰 Add helper stub for Streamlit form — 2025-12-29T13:56:44.551875
