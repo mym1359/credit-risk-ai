@@ -338,3 +338,4 @@
 # 🚧 Work in progress on dashboard layout — 2025-12-31T17:15:24.913828
 # 🧰 Add helper stub for Streamlit form — 2026-01-01T06:54:51.881285
 # 🔧 Refactor variable naming for clarity — 2026-01-01T10:37:23.922395
+# 📦 Move helper functions to utils module — 2026-01-01T13:52:50.533378
