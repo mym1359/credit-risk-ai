@@ -341,3 +341,4 @@
 # 📦 Move helper functions to utils module — 2026-01-01T13:52:50.533378
 # 🧰 Add helper stub for Streamlit form — 2026-01-01T17:16:55.463759
 # 🧾 Add comment for .env.example usage — 2026-01-02T06:55:20.358976
+# 📚 Update README with usage example — 2026-01-02T10:36:14.742917
