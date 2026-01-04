@@ -348,3 +348,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-01-03T10:35:19.066188
 # 🔧 Refactor variable naming for clarity — 2026-01-03T13:48:57.188025
 # 📦 Update requirements for future modules — 2026-01-03T17:14:41.925214
+# 🐳 Add comment for Docker healthcheck — 2026-01-04T06:53:04.424461
