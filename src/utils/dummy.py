@@ -352,3 +352,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-01-04T10:34:54.377451
 # 🐳 Add comment for Docker healthcheck — 2026-01-04T13:49:20.734767
 # 🐳 Add comment for Docker healthcheck — 2026-01-04T17:14:56.450388
+# 🧠 Add note for future ML model tuning — 2026-01-05T07:01:22.264848
