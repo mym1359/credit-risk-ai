@@ -361,3 +361,4 @@
 # ✅ Add placeholder test for edge case — 2026-01-06T13:57:42.395543
 # 🧪 Prepare test case for invalid token — 2026-01-06T17:20:38.618434
 # 📚 Update README with usage example — 2026-01-07T06:56:03.658737
+# 🐳 Add comment for Docker healthcheck — 2026-01-07T10:41:34.079274
