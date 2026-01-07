@@ -360,3 +360,4 @@
 # 🧠 Add note for future ML model tuning — 2026-01-06T10:40:54.569660
 # ✅ Add placeholder test for edge case — 2026-01-06T13:57:42.395543
 # 🧪 Prepare test case for invalid token — 2026-01-06T17:20:38.618434
+# 📚 Update README with usage example — 2026-01-07T06:56:03.658737
