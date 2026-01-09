@@ -369,3 +369,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-01-08T14:00:07.036839
 # 🗂️ Organize folders for CI/CD clarity — 2026-01-08T17:24:08.495453
 # 📦 Move helper functions to utils module — 2026-01-09T06:56:06.249685
+# 🐳 Add comment for Docker healthcheck — 2026-01-09T10:41:05.337888
