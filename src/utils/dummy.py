@@ -373,3 +373,4 @@
 # 📦 Move helper functions to utils module — 2026-01-09T13:58:03.100899
 # 🧾 Add comment for .env.example usage — 2026-01-09T17:20:09.544145
 # 📦 Update requirements for future modules — 2026-01-10T06:51:18.384846
+# 🧠 Add note for future ML model tuning — 2026-01-10T10:35:16.088457
