@@ -381,3 +381,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-01-11T13:50:39.925607
 # 🧰 Add helper stub for Streamlit form — 2026-01-11T17:14:30.476276
 # 🔐 Add note for JWT expiration handling — 2026-01-12T06:59:17.635281
+# 🧾 Add comment for .env.example usage — 2026-01-12T10:43:49.108556
