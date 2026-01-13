@@ -386,3 +386,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-01-12T17:20:29.649676
 # 📦 Update requirements for future modules — 2026-01-13T06:56:17.342711
 # 🧰 Add helper stub for Streamlit form — 2026-01-13T10:42:45.985796
+# 🧾 Add comment for .env.example usage — 2026-01-13T14:00:30.836524
