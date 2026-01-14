@@ -388,3 +388,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-01-13T10:42:45.985796
 # 🧾 Add comment for .env.example usage — 2026-01-13T14:00:30.836524
 # 🧪 Prepare test case for invalid token — 2026-01-13T17:23:40.769630
+# 📚 Update README with usage example — 2026-01-14T06:55:56.239500
