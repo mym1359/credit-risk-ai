@@ -393,3 +393,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-01-14T14:00:07.236232
 # 🚧 Work in progress on dashboard layout — 2026-01-14T17:24:21.446855
 # 🧪 Prepare test case for invalid token — 2026-01-15T06:55:55.455528
+# 🧾 Add comment for .env.example usage — 2026-01-15T10:42:06.770977
