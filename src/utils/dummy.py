@@ -399,3 +399,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-01-16T06:55:27.656336
 # 📚 Update README with usage example — 2026-01-16T10:41:28.871958
 # ✅ Add placeholder test for edge case — 2026-01-16T13:58:28.533689
+# 🐳 Add comment for Docker healthcheck — 2026-01-16T17:21:30.315430
