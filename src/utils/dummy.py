@@ -397,3 +397,4 @@
 # 📝 Add TODO for input validation — 2026-01-15T14:00:12.044483
 # 📝 Add TODO for input validation — 2026-01-15T17:28:42.168730
 # 🔧 Refactor variable naming for clarity — 2026-01-16T06:55:27.656336
+# 📚 Update README with usage example — 2026-01-16T10:41:28.871958
