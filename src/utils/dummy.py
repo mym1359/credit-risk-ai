@@ -400,3 +400,4 @@
 # 📚 Update README with usage example — 2026-01-16T10:41:28.871958
 # ✅ Add placeholder test for edge case — 2026-01-16T13:58:28.533689
 # 🐳 Add comment for Docker healthcheck — 2026-01-16T17:21:30.315430
+# 🔐 Add note for JWT expiration handling — 2026-01-17T06:51:20.568119
