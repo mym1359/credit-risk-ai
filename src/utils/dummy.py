@@ -407,3 +407,4 @@
 # 🧠 Add note for future ML model tuning — 2026-01-18T06:52:19.790435
 # 📦 Update requirements for future modules — 2026-01-18T10:35:31.920669
 # 📚 Update README with usage example — 2026-01-18T13:49:22.572042
+# 🗂️ Organize folders for CI/CD clarity — 2026-01-18T17:14:31.512582
