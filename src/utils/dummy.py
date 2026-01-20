@@ -412,3 +412,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-01-19T10:47:14.508285
 # ✅ Add placeholder test for edge case — 2026-01-19T14:02:15.037344
 # 🧪 Prepare test case for invalid token — 2026-01-19T17:20:57.061001
+# 📦 Move helper functions to utils module — 2026-01-20T06:59:45.318299
