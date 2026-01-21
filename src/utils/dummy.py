@@ -419,3 +419,4 @@
 # 🧾 Add comment for .env.example usage — 2026-01-21T06:59:55.153328
 # 📚 Update README with usage example — 2026-01-21T10:48:09.037672
 # 🔧 Refactor variable naming for clarity — 2026-01-21T14:04:24.417412
+# 📚 Update README with usage example — 2026-01-21T17:54:23.465259
