@@ -422,3 +422,4 @@
 # 📚 Update README with usage example — 2026-01-21T17:54:23.465259
 # 🚧 Work in progress on dashboard layout — 2026-01-22T06:58:12.668543
 # 🧰 Add helper stub for Streamlit form — 2026-01-22T10:47:03.072276
+# 🐳 Add comment for Docker healthcheck — 2026-01-22T14:05:20.607260
