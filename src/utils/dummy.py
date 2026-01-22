@@ -423,3 +423,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-01-22T06:58:12.668543
 # 🧰 Add helper stub for Streamlit form — 2026-01-22T10:47:03.072276
 # 🐳 Add comment for Docker healthcheck — 2026-01-22T14:05:20.607260
+# 📦 Move helper functions to utils module — 2026-01-22T17:25:30.022005
