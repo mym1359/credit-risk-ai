@@ -426,3 +426,4 @@
 # 📦 Move helper functions to utils module — 2026-01-22T17:25:30.022005
 # ⚙️ Tweak GitHub Actions trigger time — 2026-01-23T06:57:41.247980
 # 🧠 Add note for future ML model tuning — 2026-01-23T10:44:11.158036
+# 🐳 Add comment for Docker healthcheck — 2026-01-23T14:00:50.906106
