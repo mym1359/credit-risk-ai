@@ -429,3 +429,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-01-23T14:00:50.906106
 # 📚 Update README with usage example — 2026-01-23T17:23:28.269581
 # 🧪 Prepare test case for invalid token — 2026-01-24T06:52:47.598701
+# 📦 Move helper functions to utils module — 2026-01-24T10:35:45.753122
