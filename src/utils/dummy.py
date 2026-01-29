@@ -451,3 +451,4 @@
 # 📚 Update README with usage example — 2026-01-29T07:11:32.903965
 # 📦 Update requirements for future modules — 2026-01-29T10:56:38.630514
 # 🧾 Add comment for .env.example usage — 2026-01-29T14:23:26.409364
+# 📦 Move helper functions to utils module — 2026-01-29T17:34:32.550121
