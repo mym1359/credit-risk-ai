@@ -453,3 +453,4 @@
 # 🧾 Add comment for .env.example usage — 2026-01-29T14:23:26.409364
 # 📦 Move helper functions to utils module — 2026-01-29T17:34:32.550121
 # 📦 Update requirements for future modules — 2026-01-30T07:12:28.775036
+# 🗂️ Organize folders for CI/CD clarity — 2026-01-30T10:53:45.312872
