@@ -456,3 +456,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-01-30T10:53:45.312872
 # ⚙️ Tweak GitHub Actions trigger time — 2026-01-30T14:19:02.462437
 # 🧪 Prepare test case for invalid token — 2026-01-30T17:30:18.795478
+# 📦 Move helper functions to utils module — 2026-01-31T07:03:06.068443
