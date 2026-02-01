@@ -463,3 +463,4 @@
 # 📚 Update README with usage example — 2026-02-01T07:09:38.481140
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-01T10:45:28.797202
 # 🧾 Add comment for .env.example usage — 2026-02-01T14:01:53.839293
+# 🧾 Add comment for .env.example usage — 2026-02-01T17:20:52.320640
