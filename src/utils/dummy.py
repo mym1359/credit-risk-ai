@@ -466,3 +466,4 @@
 # 🧾 Add comment for .env.example usage — 2026-02-01T17:20:52.320640
 # 🗂️ Organize folders for CI/CD clarity — 2026-02-02T07:32:10.928762
 # 🚧 Work in progress on dashboard layout — 2026-02-02T11:05:18.709414
+# 🧾 Add comment for .env.example usage — 2026-02-02T14:24:05.197433
