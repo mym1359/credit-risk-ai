@@ -478,3 +478,4 @@
 # ✅ Add placeholder test for edge case — 2026-02-04T17:42:07.363180
 # 🚧 Work in progress on dashboard layout — 2026-02-05T07:31:06.352898
 # 📚 Update README with usage example — 2026-02-05T11:00:55.041606
+# 🗂️ Organize folders for CI/CD clarity — 2026-02-05T14:28:11.142187
