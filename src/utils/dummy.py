@@ -479,3 +479,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-02-05T07:31:06.352898
 # 📚 Update README with usage example — 2026-02-05T11:00:55.041606
 # 🗂️ Organize folders for CI/CD clarity — 2026-02-05T14:28:11.142187
+# 🧾 Add comment for .env.example usage — 2026-02-05T17:43:26.803151
