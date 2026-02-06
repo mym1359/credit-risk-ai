@@ -482,3 +482,4 @@
 # 🧾 Add comment for .env.example usage — 2026-02-05T17:43:26.803151
 # 🔧 Refactor variable naming for clarity — 2026-02-06T07:27:27.257179
 # 📦 Update requirements for future modules — 2026-02-06T10:59:43.500648
+# 📝 Add TODO for input validation — 2026-02-06T14:25:05.211764
