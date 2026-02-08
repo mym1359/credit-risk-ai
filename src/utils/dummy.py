@@ -491,3 +491,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-02-08T07:10:35.372333
 # 📚 Update README with usage example — 2026-02-08T10:46:28.997684
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-08T14:03:43.171339
+# 📦 Move helper functions to utils module — 2026-02-08T17:22:45.633601
