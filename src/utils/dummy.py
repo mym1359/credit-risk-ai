@@ -488,3 +488,4 @@
 # 🧾 Add comment for .env.example usage — 2026-02-07T10:45:16.147782
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-07T14:02:02.608776
 # ✅ Add placeholder test for edge case — 2026-02-07T17:22:47.516503
+# 🔧 Refactor variable naming for clarity — 2026-02-08T07:10:35.372333
