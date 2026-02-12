@@ -506,3 +506,4 @@
 # 📦 Move helper functions to utils module — 2026-02-11T17:53:45.018276
 # 🧰 Add helper stub for Streamlit form — 2026-02-12T07:33:43.137907
 # 📝 Add TODO for input validation — 2026-02-12T11:06:11.185920
+# 🧠 Add note for future ML model tuning — 2026-02-12T14:33:51.056676
