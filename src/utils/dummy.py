@@ -504,3 +504,4 @@
 # 🧪 Prepare test case for invalid token — 2026-02-11T11:08:01.894687
 # 📚 Update README with usage example — 2026-02-11T14:39:12.223993
 # 📦 Move helper functions to utils module — 2026-02-11T17:53:45.018276
+# 🧰 Add helper stub for Streamlit form — 2026-02-12T07:33:43.137907
