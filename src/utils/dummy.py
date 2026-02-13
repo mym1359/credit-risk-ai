@@ -508,3 +508,4 @@
 # 📝 Add TODO for input validation — 2026-02-12T11:06:11.185920
 # 🧠 Add note for future ML model tuning — 2026-02-12T14:33:51.056676
 # 📝 Add TODO for input validation — 2026-02-12T17:54:44.992475
+# 🐳 Add comment for Docker healthcheck — 2026-02-13T07:30:37.955867
