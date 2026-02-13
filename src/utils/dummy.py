@@ -510,3 +510,4 @@
 # 📝 Add TODO for input validation — 2026-02-12T17:54:44.992475
 # 🐳 Add comment for Docker healthcheck — 2026-02-13T07:30:37.955867
 # 🧠 Add note for future ML model tuning — 2026-02-13T11:00:14.603454
+# 🗂️ Organize folders for CI/CD clarity — 2026-02-13T14:25:55.864695
