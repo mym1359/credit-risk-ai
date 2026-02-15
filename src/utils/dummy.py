@@ -518,3 +518,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-02-14T17:23:27.009817
 # 🗂️ Organize folders for CI/CD clarity — 2026-02-15T07:11:41.203377
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-15T10:46:18.818845
+# 📦 Move helper functions to utils module — 2026-02-15T14:03:29.237682
