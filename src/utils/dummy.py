@@ -521,3 +521,4 @@
 # 📦 Move helper functions to utils module — 2026-02-15T14:03:29.237682
 # 📦 Update requirements for future modules — 2026-02-16T07:34:59.231343
 # 📝 Add TODO for input validation — 2026-02-16T11:06:09.697276
+# 📚 Update README with usage example — 2026-02-16T14:27:11.149699
