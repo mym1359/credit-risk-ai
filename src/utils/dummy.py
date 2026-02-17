@@ -524,3 +524,4 @@
 # 📚 Update README with usage example — 2026-02-16T14:27:11.149699
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-16T17:34:53.637403
 # 🧠 Add note for future ML model tuning — 2026-02-17T07:31:05.650504
+# 🔐 Add note for JWT expiration handling — 2026-02-17T11:05:29.505373
