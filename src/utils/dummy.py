@@ -529,3 +529,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-17T17:53:05.536204
 # 🚧 Work in progress on dashboard layout — 2026-02-18T07:31:52.442629
 # 🗂️ Organize folders for CI/CD clarity — 2026-02-18T11:05:21.037707
+# 🔐 Add note for JWT expiration handling — 2026-02-18T14:29:26.209268
