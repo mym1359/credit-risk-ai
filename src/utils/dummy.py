@@ -538,3 +538,4 @@
 # 📝 Add TODO for input validation — 2026-02-20T07:28:50.860797
 # 🧪 Prepare test case for invalid token — 2026-02-20T10:57:11.452417
 # ⚙️ Tweak GitHub Actions trigger time — 2026-02-20T14:23:38.037551
+# 🔐 Add note for JWT expiration handling — 2026-02-20T17:34:37.682340
