@@ -550,3 +550,4 @@
 # 📚 Update README with usage example — 2026-02-23T07:36:03.088776
 # 🔧 Refactor variable naming for clarity — 2026-02-23T11:05:42.986373
 # 📦 Update requirements for future modules — 2026-02-23T14:31:03.924785
+# 📦 Move helper functions to utils module — 2026-02-23T17:58:38.575968
