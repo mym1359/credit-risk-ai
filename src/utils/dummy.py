@@ -554,3 +554,4 @@
 # 🧠 Add note for future ML model tuning — 2026-02-24T07:31:42.009107
 # ✅ Add placeholder test for edge case — 2026-02-24T11:06:05.762666
 # ✅ Add placeholder test for edge case — 2026-02-24T14:35:30.752237
+# 🧾 Add comment for .env.example usage — 2026-02-24T17:53:36.834934
