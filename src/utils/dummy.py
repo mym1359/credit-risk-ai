@@ -560,3 +560,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-02-25T14:34:13.395374
 # 🧾 Add comment for .env.example usage — 2026-02-25T17:54:08.643506
 # 🧪 Prepare test case for invalid token — 2026-02-26T07:31:43.682469
+# 📝 Add TODO for input validation — 2026-02-26T11:05:24.130234
