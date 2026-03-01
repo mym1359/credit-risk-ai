@@ -571,3 +571,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-02-28T10:38:53.979514
 # 🐳 Add comment for Docker healthcheck — 2026-02-28T13:56:11.961244
 # 🧾 Add comment for .env.example usage — 2026-02-28T17:17:17.653794
+# 🧾 Add comment for .env.example usage — 2026-03-01T07:07:28.696425
