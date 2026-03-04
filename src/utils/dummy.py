@@ -583,3 +583,4 @@
 # ✅ Add placeholder test for edge case — 2026-03-03T10:58:42.891531
 # 🐳 Add comment for Docker healthcheck — 2026-03-03T14:25:42.528315
 # 📝 Add TODO for input validation — 2026-03-03T17:40:04.723400
+# 📚 Update README with usage example — 2026-03-04T07:09:50.080696
