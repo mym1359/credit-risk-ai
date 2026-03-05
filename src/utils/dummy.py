@@ -588,3 +588,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-03-04T14:23:49.254059
 # 📚 Update README with usage example — 2026-03-04T17:35:30.310835
 # 🧠 Add note for future ML model tuning — 2026-03-05T07:14:00.239198
+# 🧪 Prepare test case for invalid token — 2026-03-05T10:59:25.696757
