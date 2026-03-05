@@ -587,3 +587,4 @@
 # 📦 Move helper functions to utils module — 2026-03-04T10:55:57.316280
 # 🔐 Add note for JWT expiration handling — 2026-03-04T14:23:49.254059
 # 📚 Update README with usage example — 2026-03-04T17:35:30.310835
+# 🧠 Add note for future ML model tuning — 2026-03-05T07:14:00.239198
