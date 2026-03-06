@@ -593,3 +593,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-05T18:46:48.956143
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-06T07:11:19.992142
 # ✅ Add placeholder test for edge case — 2026-03-06T10:54:20.471753
+# 🔐 Add note for JWT expiration handling — 2026-03-06T14:21:15.743659
