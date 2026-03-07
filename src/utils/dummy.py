@@ -598,3 +598,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-07T07:02:55.902704
 # 🧠 Add note for future ML model tuning — 2026-03-07T10:40:34.583407
 # 📝 Add TODO for input validation — 2026-03-07T13:58:18.086057
+# 🐳 Add comment for Docker healthcheck — 2026-03-07T17:17:51.141951
