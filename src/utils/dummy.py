@@ -596,3 +596,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-03-06T14:21:15.743659
 # 📦 Update requirements for future modules — 2026-03-06T17:31:43.973577
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-07T07:02:55.902704
+# 🧠 Add note for future ML model tuning — 2026-03-07T10:40:34.583407
