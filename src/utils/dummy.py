@@ -600,3 +600,4 @@
 # 📝 Add TODO for input validation — 2026-03-07T13:58:18.086057
 # 🐳 Add comment for Docker healthcheck — 2026-03-07T17:17:51.141951
 # 🐳 Add comment for Docker healthcheck — 2026-03-08T07:05:17.010697
+# 📚 Update README with usage example — 2026-03-08T10:42:50.341797
