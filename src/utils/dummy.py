@@ -606,3 +606,4 @@
 # 📚 Update README with usage example — 2026-03-09T07:32:36.830770
 # 📦 Move helper functions to utils module — 2026-03-09T11:02:19.115524
 # 🧠 Add note for future ML model tuning — 2026-03-09T14:32:42.177258
+# 🗂️ Organize folders for CI/CD clarity — 2026-03-09T17:43:51.178015
