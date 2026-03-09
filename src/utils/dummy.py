@@ -604,3 +604,4 @@
 # 🧾 Add comment for .env.example usage — 2026-03-08T13:59:24.797206
 # ⚙️ Tweak GitHub Actions trigger time — 2026-03-08T17:19:52.417187
 # 📚 Update README with usage example — 2026-03-09T07:32:36.830770
+# 📦 Move helper functions to utils module — 2026-03-09T11:02:19.115524
