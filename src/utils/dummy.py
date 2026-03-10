@@ -609,3 +609,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-09T17:43:51.178015
 # 🚧 Work in progress on dashboard layout — 2026-03-10T07:12:16.042602
 # 📦 Move helper functions to utils module — 2026-03-10T10:59:13.686551
+# 🔐 Add note for JWT expiration handling — 2026-03-10T14:27:35.576185
