@@ -612,3 +612,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-03-10T14:27:35.576185
 # 🐳 Add comment for Docker healthcheck — 2026-03-10T17:42:57.584417
 # 🧪 Prepare test case for invalid token — 2026-03-11T07:25:26.566771
+# 📝 Add TODO for input validation — 2026-03-11T10:59:05.642059
