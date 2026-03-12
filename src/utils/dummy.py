@@ -618,3 +618,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-03-12T07:27:32.316698
 # ⚙️ Tweak GitHub Actions trigger time — 2026-03-12T10:58:43.123173
 # 📝 Add TODO for input validation — 2026-03-12T14:30:23.347923
+# 🔐 Add note for JWT expiration handling — 2026-03-12T17:46:06.339068
