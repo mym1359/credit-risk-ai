@@ -626,3 +626,4 @@
 # 🧪 Prepare test case for invalid token — 2026-03-14T07:09:34.643454
 # 📝 Add TODO for input validation — 2026-03-14T10:46:09.944368
 # 📚 Update README with usage example — 2026-03-14T14:03:16.071473
+# 📦 Move helper functions to utils module — 2026-03-14T17:24:14.668101
