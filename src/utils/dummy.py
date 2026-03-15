@@ -628,3 +628,4 @@
 # 📚 Update README with usage example — 2026-03-14T14:03:16.071473
 # 📦 Move helper functions to utils module — 2026-03-14T17:24:14.668101
 # 🐳 Add comment for Docker healthcheck — 2026-03-15T07:26:34.087831
+# 🧰 Add helper stub for Streamlit form — 2026-03-15T10:48:18.648935
