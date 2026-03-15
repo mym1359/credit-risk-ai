@@ -629,3 +629,4 @@
 # 📦 Move helper functions to utils module — 2026-03-14T17:24:14.668101
 # 🐳 Add comment for Docker healthcheck — 2026-03-15T07:26:34.087831
 # 🧰 Add helper stub for Streamlit form — 2026-03-15T10:48:18.648935
+# 🧪 Prepare test case for invalid token — 2026-03-15T14:05:09.890129
