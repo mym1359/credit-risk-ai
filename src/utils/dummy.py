@@ -634,3 +634,4 @@
 # 🧾 Add comment for .env.example usage — 2026-03-16T07:52:52.240648
 # ✅ Add placeholder test for edge case — 2026-03-16T11:09:53.526257
 # 🧰 Add helper stub for Streamlit form — 2026-03-16T14:46:41.677620
+# 🗂️ Organize folders for CI/CD clarity — 2026-03-16T17:56:53.032003
