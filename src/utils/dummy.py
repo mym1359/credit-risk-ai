@@ -631,3 +631,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-03-15T10:48:18.648935
 # 🧪 Prepare test case for invalid token — 2026-03-15T14:05:09.890129
 # 📦 Move helper functions to utils module — 2026-03-15T17:23:56.793241
+# 🧾 Add comment for .env.example usage — 2026-03-16T07:52:52.240648
