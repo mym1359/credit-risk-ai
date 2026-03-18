@@ -642,3 +642,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-03-18T07:34:18.036666
 # 🧪 Prepare test case for invalid token — 2026-03-18T11:08:17.073947
 # 🧠 Add note for future ML model tuning — 2026-03-18T14:48:32.061583
+# 🐳 Add comment for Docker healthcheck — 2026-03-18T17:57:49.488353
