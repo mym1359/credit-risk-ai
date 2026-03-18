@@ -639,3 +639,4 @@
 # 📦 Move helper functions to utils module — 2026-03-17T11:07:11.229568
 # 🐳 Add comment for Docker healthcheck — 2026-03-17T14:40:57.012733
 # ⚙️ Tweak GitHub Actions trigger time — 2026-03-17T17:54:58.023872
+# 🔐 Add note for JWT expiration handling — 2026-03-18T07:34:18.036666
