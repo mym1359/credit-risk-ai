@@ -657,3 +657,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-03-21T17:22:21.085849
 # ⚙️ Tweak GitHub Actions trigger time — 2026-03-22T07:12:11.461271
 # 🧰 Add helper stub for Streamlit form — 2026-03-22T10:45:59.705053
+# 🗂️ Organize folders for CI/CD clarity — 2026-03-22T14:02:38.749687
