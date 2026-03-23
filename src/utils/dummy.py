@@ -662,3 +662,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-23T07:43:13.465677
 # 📝 Add TODO for input validation — 2026-03-23T11:07:40.386309
 # 🧪 Prepare test case for invalid token — 2026-03-23T14:40:14.465254
+# 🧾 Add comment for .env.example usage — 2026-03-23T17:49:49.645573
