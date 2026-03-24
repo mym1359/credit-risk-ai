@@ -664,3 +664,4 @@
 # 🧪 Prepare test case for invalid token — 2026-03-23T14:40:14.465254
 # 🧾 Add comment for .env.example usage — 2026-03-23T17:49:49.645573
 # 📚 Update README with usage example — 2026-03-24T07:34:40.007698
+# 📚 Update README with usage example — 2026-03-24T11:07:44.185416
