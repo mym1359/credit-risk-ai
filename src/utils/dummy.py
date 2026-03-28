@@ -679,3 +679,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-03-27T11:05:33.023939
 # 🔐 Add note for JWT expiration handling — 2026-03-27T14:33:34.970149
 # ✅ Add placeholder test for edge case — 2026-03-27T17:46:29.073589
+# 📚 Update README with usage example — 2026-03-28T07:27:46.868776
