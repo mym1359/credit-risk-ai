@@ -681,3 +681,4 @@
 # ✅ Add placeholder test for edge case — 2026-03-27T17:46:29.073589
 # 📚 Update README with usage example — 2026-03-28T07:27:46.868776
 # 🧾 Add comment for .env.example usage — 2026-03-28T10:50:09.605138
+# 🗂️ Organize folders for CI/CD clarity — 2026-03-28T14:06:28.269399
