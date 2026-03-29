@@ -685,3 +685,4 @@
 # ✅ Add placeholder test for edge case — 2026-03-28T17:25:12.403533
 # ✅ Add placeholder test for edge case — 2026-03-29T07:31:55.349240
 # 🧪 Prepare test case for invalid token — 2026-03-29T10:52:34.624525
+# 🧾 Add comment for .env.example usage — 2026-03-29T14:07:43.711199
