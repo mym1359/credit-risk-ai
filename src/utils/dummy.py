@@ -694,3 +694,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-03-31T07:49:08.916863
 # 🧠 Add note for future ML model tuning — 2026-03-31T11:09:33.150462
 # 🧠 Add note for future ML model tuning — 2026-03-31T14:48:35.871687
+# 🧪 Prepare test case for invalid token — 2026-03-31T17:53:35.811202
