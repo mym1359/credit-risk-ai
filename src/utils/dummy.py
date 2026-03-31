@@ -691,3 +691,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-03-30T11:17:40.832908
 # ⚙️ Tweak GitHub Actions trigger time — 2026-03-30T14:50:48.914425
 # 📝 Add TODO for input validation — 2026-03-30T17:51:40.036989
+# 🔐 Add note for JWT expiration handling — 2026-03-31T07:49:08.916863
