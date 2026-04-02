@@ -700,3 +700,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-04-01T14:51:09.653935
 # 🐳 Add comment for Docker healthcheck — 2026-04-01T17:46:25.434360
 # 🐳 Add comment for Docker healthcheck — 2026-04-02T07:45:25.221725
+# 🔧 Refactor variable naming for clarity — 2026-04-02T11:08:26.822792
