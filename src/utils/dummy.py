@@ -707,3 +707,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-04-03T11:02:32.230041
 # 🧪 Prepare test case for invalid token — 2026-04-03T14:24:54.056550
 # 🧾 Add comment for .env.example usage — 2026-04-03T17:30:35.784974
+# 🗂️ Organize folders for CI/CD clarity — 2026-04-04T07:32:07.396035
