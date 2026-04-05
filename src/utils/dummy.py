@@ -712,3 +712,4 @@
 # 📚 Update README with usage example — 2026-04-04T14:07:23.881405
 # 🗂️ Organize folders for CI/CD clarity — 2026-04-04T17:26:40.382871
 # 🧠 Add note for future ML model tuning — 2026-04-05T07:35:59.166193
+# 🧾 Add comment for .env.example usage — 2026-04-05T10:53:52.586661
