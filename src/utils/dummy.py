@@ -714,3 +714,4 @@
 # 🧠 Add note for future ML model tuning — 2026-04-05T07:35:59.166193
 # 🧾 Add comment for .env.example usage — 2026-04-05T10:53:52.586661
 # 📦 Move helper functions to utils module — 2026-04-05T14:18:29.675575
+# 🧪 Prepare test case for invalid token — 2026-04-05T17:26:41.297726
