@@ -723,3 +723,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-04-07T11:13:18.819256
 # 🧠 Add note for future ML model tuning — 2026-04-07T14:54:03.398789
 # 🗂️ Organize folders for CI/CD clarity — 2026-04-07T17:55:44.333267
+# 📚 Update README with usage example — 2026-04-08T07:57:16.535136
