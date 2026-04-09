@@ -727,3 +727,4 @@
 # 📦 Update requirements for future modules — 2026-04-08T11:14:19.148505
 # 🧠 Add note for future ML model tuning — 2026-04-08T14:54:57.485514
 # 🧠 Add note for future ML model tuning — 2026-04-08T18:03:51.296688
+# 🐳 Add comment for Docker healthcheck — 2026-04-09T07:59:14.162446
