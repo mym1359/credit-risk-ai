@@ -738,3 +738,4 @@
 # ✅ Add placeholder test for edge case — 2026-04-11T07:32:02.161560
 # 🧾 Add comment for .env.example usage — 2026-04-11T10:54:31.123395
 # 📝 Add TODO for input validation — 2026-04-11T14:19:14.792097
+# 📚 Update README with usage example — 2026-04-11T17:27:53.986189
