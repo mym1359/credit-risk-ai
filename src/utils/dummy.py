@@ -741,3 +741,4 @@
 # 📚 Update README with usage example — 2026-04-11T17:27:53.986189
 # 📦 Move helper functions to utils module — 2026-04-12T07:48:31.351312
 # 📦 Move helper functions to utils module — 2026-04-12T10:57:55.658651
+# 📚 Update README with usage example — 2026-04-12T14:21:50.571000
