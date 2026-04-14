@@ -749,3 +749,4 @@
 # 📦 Move helper functions to utils module — 2026-04-13T17:56:20.460486
 # 📚 Update README with usage example — 2026-04-14T08:09:53.877253
 # 📝 Add TODO for input validation — 2026-04-14T11:18:11.738397
+# 🧪 Prepare test case for invalid token — 2026-04-14T15:02:18.701791
