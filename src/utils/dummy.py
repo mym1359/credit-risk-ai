@@ -753,3 +753,4 @@
 # ✅ Add placeholder test for edge case — 2026-04-14T18:01:04.684011
 # 🧾 Add comment for .env.example usage — 2026-04-15T08:11:13.359880
 # 🐳 Add comment for Docker healthcheck — 2026-04-15T11:15:40.680070
+# 🧠 Add note for future ML model tuning — 2026-04-15T14:54:32.972520
