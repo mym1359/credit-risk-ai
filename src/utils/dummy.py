@@ -759,3 +759,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-04-16T11:18:40.883514
 # 🚧 Work in progress on dashboard layout — 2026-04-16T15:12:54.914118
 # 📚 Update README with usage example — 2026-04-16T18:05:48.233614
+# 📦 Move helper functions to utils module — 2026-04-17T08:09:55.332393
