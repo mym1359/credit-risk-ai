@@ -773,3 +773,4 @@
 # 🧠 Add note for future ML model tuning — 2026-04-19T17:32:29.698096
 # 🔐 Add note for JWT expiration handling — 2026-04-20T08:31:31.785366
 # 🧾 Add comment for .env.example usage — 2026-04-20T11:40:52.919289
+# 🧠 Add note for future ML model tuning — 2026-04-20T15:04:53.228442
