@@ -771,3 +771,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-04-19T10:58:49.054078
 # 🧠 Add note for future ML model tuning — 2026-04-19T14:22:35.951466
 # 🧠 Add note for future ML model tuning — 2026-04-19T17:32:29.698096
+# 🔐 Add note for JWT expiration handling — 2026-04-20T08:31:31.785366
