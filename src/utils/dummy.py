@@ -776,3 +776,4 @@
 # 🧠 Add note for future ML model tuning — 2026-04-20T15:04:53.228442
 # ✅ Add placeholder test for edge case — 2026-04-20T17:53:47.783932
 # 🧾 Add comment for .env.example usage — 2026-04-21T08:15:14.556388
+# 🗂️ Organize folders for CI/CD clarity — 2026-04-21T11:21:39.945275
