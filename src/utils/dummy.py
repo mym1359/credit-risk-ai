@@ -779,3 +779,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-04-21T11:21:39.945275
 # 📚 Update README with usage example — 2026-04-21T15:00:00.012355
 # 🧰 Add helper stub for Streamlit form — 2026-04-21T17:57:23.026125
+# 📦 Move helper functions to utils module — 2026-04-22T08:13:30.453996
