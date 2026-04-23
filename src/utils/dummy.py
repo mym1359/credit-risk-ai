@@ -784,3 +784,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-04-22T14:59:48.993792
 # 📦 Update requirements for future modules — 2026-04-22T17:58:22.096408
 # ✅ Add placeholder test for edge case — 2026-04-23T08:16:36.226386
+# 🐳 Add comment for Docker healthcheck — 2026-04-23T11:31:36.210367
