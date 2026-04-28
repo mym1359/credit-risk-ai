@@ -805,3 +805,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-04-27T18:02:30.288606
 # 🧾 Add comment for .env.example usage — 2026-04-28T08:41:29.862341
 # 📚 Update README with usage example — 2026-04-28T12:01:05.481553
+# 🔧 Refactor variable naming for clarity — 2026-04-28T15:59:16.911078
