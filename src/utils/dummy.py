@@ -817,3 +817,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-04-30T18:06:58.572441
 # 📝 Add TODO for input validation — 2026-05-01T08:27:20.436911
 # 📝 Add TODO for input validation — 2026-05-01T11:21:47.901132
+# 🐳 Add comment for Docker healthcheck — 2026-05-01T14:39:17.377220
