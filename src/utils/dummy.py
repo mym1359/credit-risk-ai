@@ -818,3 +818,4 @@
 # 📝 Add TODO for input validation — 2026-05-01T08:27:20.436911
 # 📝 Add TODO for input validation — 2026-05-01T11:21:47.901132
 # 🐳 Add comment for Docker healthcheck — 2026-05-01T14:39:17.377220
+# 🔐 Add note for JWT expiration handling — 2026-05-01T17:56:33.627481
