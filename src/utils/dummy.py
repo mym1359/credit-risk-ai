@@ -824,3 +824,4 @@
 # 📝 Add TODO for input validation — 2026-05-02T14:31:22.833303
 # 🧪 Prepare test case for invalid token — 2026-05-02T17:40:13.211937
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-03T08:17:40.067148
+# 🧰 Add helper stub for Streamlit form — 2026-05-03T11:05:46.903694
