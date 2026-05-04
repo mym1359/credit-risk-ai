@@ -829,3 +829,4 @@
 # 🧠 Add note for future ML model tuning — 2026-05-03T17:43:06.107941
 # 📦 Update requirements for future modules — 2026-05-04T08:43:43.954519
 # 🚧 Work in progress on dashboard layout — 2026-05-04T12:03:41.183680
+# 📦 Move helper functions to utils module — 2026-05-04T15:31:56.240940
