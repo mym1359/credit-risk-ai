@@ -836,3 +836,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-05-05T18:06:56.003447
 # 📦 Update requirements for future modules — 2026-05-06T08:42:58.280853
 # 🔐 Add note for JWT expiration handling — 2026-05-06T12:04:17.235780
+# 🗂️ Organize folders for CI/CD clarity — 2026-05-06T15:52:05.483573
