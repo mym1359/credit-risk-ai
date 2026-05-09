@@ -848,3 +848,4 @@
 # ✅ Add placeholder test for edge case — 2026-05-08T18:06:46.537773
 # 🧠 Add note for future ML model tuning — 2026-05-09T08:14:28.306947
 # 🧰 Add helper stub for Streamlit form — 2026-05-09T11:10:08.758551
+# 🗂️ Organize folders for CI/CD clarity — 2026-05-09T14:36:06.832378
