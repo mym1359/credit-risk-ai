@@ -851,3 +851,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-09T14:36:06.832378
 # 📚 Update README with usage example — 2026-05-09T17:45:57.563240
 # 📦 Update requirements for future modules — 2026-05-10T08:24:39.778379
+# 🧰 Add helper stub for Streamlit form — 2026-05-10T11:12:49.423091
