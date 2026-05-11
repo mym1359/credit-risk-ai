@@ -854,3 +854,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-05-10T11:12:49.423091
 # 📚 Update README with usage example — 2026-05-10T14:38:15.117887
 # 🧪 Prepare test case for invalid token — 2026-05-10T17:48:17.857173
+# 🗂️ Organize folders for CI/CD clarity — 2026-05-11T10:04:59.356161
