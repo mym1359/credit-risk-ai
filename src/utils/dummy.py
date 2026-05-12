@@ -861,3 +861,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-05-12T09:16:35.873716
 # ⚙️ Tweak GitHub Actions trigger time — 2026-05-12T12:14:44.947288
 # 🐳 Add comment for Docker healthcheck — 2026-05-12T16:04:56.852658
+# 🗂️ Organize folders for CI/CD clarity — 2026-05-12T18:53:29.411564
