@@ -862,3 +862,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-05-12T12:14:44.947288
 # 🐳 Add comment for Docker healthcheck — 2026-05-12T16:04:56.852658
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-12T18:53:29.411564
+# 📚 Update README with usage example — 2026-05-13T09:23:05.012946
