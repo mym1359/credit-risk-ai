@@ -864,3 +864,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-12T18:53:29.411564
 # 📚 Update README with usage example — 2026-05-13T09:23:05.012946
 # 🧰 Add helper stub for Streamlit form — 2026-05-13T12:23:05.692370
+# 🧪 Prepare test case for invalid token — 2026-05-13T16:07:34.655269
