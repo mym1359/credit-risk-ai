@@ -877,3 +877,4 @@
 # 🧠 Add note for future ML model tuning — 2026-05-16T08:21:24.495410
 # 📦 Move helper functions to utils module — 2026-05-16T11:17:07.828005
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-16T14:41:39.958245
+# 🧾 Add comment for .env.example usage — 2026-05-16T17:53:59.639523
