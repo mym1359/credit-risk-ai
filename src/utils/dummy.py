@@ -876,3 +876,4 @@
 # 🧪 Prepare test case for invalid token — 2026-05-15T18:19:35.412506
 # 🧠 Add note for future ML model tuning — 2026-05-16T08:21:24.495410
 # 📦 Move helper functions to utils module — 2026-05-16T11:17:07.828005
+# 🗂️ Organize folders for CI/CD clarity — 2026-05-16T14:41:39.958245
