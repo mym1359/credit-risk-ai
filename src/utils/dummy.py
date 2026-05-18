@@ -884,3 +884,4 @@
 # 📦 Move helper functions to utils module — 2026-05-17T17:55:29.492604
 # ⚙️ Tweak GitHub Actions trigger time — 2026-05-18T10:44:27.844147
 # 📝 Add TODO for input validation — 2026-05-18T13:58:57.237720
+# 🗂️ Organize folders for CI/CD clarity — 2026-05-18T16:39:17.768230
