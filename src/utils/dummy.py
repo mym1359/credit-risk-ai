@@ -886,3 +886,4 @@
 # 📝 Add TODO for input validation — 2026-05-18T13:58:57.237720
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-18T16:39:17.768230
 # 🧠 Add note for future ML model tuning — 2026-05-18T18:28:34.363562
+# 🧰 Add helper stub for Streamlit form — 2026-05-19T10:11:47.487345
