@@ -893,3 +893,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-05-20T09:57:54.088479
 # 🧾 Add comment for .env.example usage — 2026-05-20T12:37:46.548184
 # 🐳 Add comment for Docker healthcheck — 2026-05-20T16:37:24.533609
+# 🔐 Add note for JWT expiration handling — 2026-05-20T19:21:10.477073
