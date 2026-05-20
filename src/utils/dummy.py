@@ -890,3 +890,4 @@
 # ✅ Add placeholder test for edge case — 2026-05-19T13:29:05.363168
 # 🗂️ Organize folders for CI/CD clarity — 2026-05-19T16:38:03.891626
 # ⚙️ Tweak GitHub Actions trigger time — 2026-05-19T18:57:04.768089
+# 🐳 Add comment for Docker healthcheck — 2026-05-20T09:57:54.088479
