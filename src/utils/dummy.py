@@ -897,3 +897,4 @@
 # 🧾 Add comment for .env.example usage — 2026-05-21T10:07:24.744277
 # 📦 Move helper functions to utils module — 2026-05-21T13:30:35.196271
 # ⚙️ Tweak GitHub Actions trigger time — 2026-05-21T16:26:56.864466
+# 🐳 Add comment for Docker healthcheck — 2026-05-21T18:56:57.783540
