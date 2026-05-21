@@ -895,3 +895,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-05-20T16:37:24.533609
 # 🔐 Add note for JWT expiration handling — 2026-05-20T19:21:10.477073
 # 🧾 Add comment for .env.example usage — 2026-05-21T10:07:24.744277
+# 📦 Move helper functions to utils module — 2026-05-21T13:30:35.196271
