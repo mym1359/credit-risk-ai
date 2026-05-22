@@ -901,3 +901,4 @@
 # 🧾 Add comment for .env.example usage — 2026-05-22T09:54:07.637654
 # 🐳 Add comment for Docker healthcheck — 2026-05-22T12:33:55.173569
 # 🐳 Add comment for Docker healthcheck — 2026-05-22T16:03:09.295435
+# 📦 Move helper functions to utils module — 2026-05-22T18:50:33.325132
