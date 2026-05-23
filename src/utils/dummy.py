@@ -903,3 +903,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-05-22T16:03:09.295435
 # 📦 Move helper functions to utils module — 2026-05-22T18:50:33.325132
 # ⚙️ Tweak GitHub Actions trigger time — 2026-05-23T08:33:44.680299
+# 🧪 Prepare test case for invalid token — 2026-05-23T11:34:10.247055
