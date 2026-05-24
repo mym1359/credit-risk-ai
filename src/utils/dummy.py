@@ -906,3 +906,4 @@
 # 🧪 Prepare test case for invalid token — 2026-05-23T11:34:10.247055
 # 🔐 Add note for JWT expiration handling — 2026-05-23T14:48:59.692196
 # 📦 Move helper functions to utils module — 2026-05-23T17:57:43.983782
+# 🧰 Add helper stub for Streamlit form — 2026-05-24T09:03:54.174206
