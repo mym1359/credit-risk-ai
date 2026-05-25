@@ -910,3 +910,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-05-24T11:40:50.678088
 # 📝 Add TODO for input validation — 2026-05-24T14:50:26.712100
 # 📚 Update README with usage example — 2026-05-24T17:56:38.829340
+# 📦 Move helper functions to utils module — 2026-05-25T10:54:11.647423
