@@ -911,3 +911,4 @@
 # 📝 Add TODO for input validation — 2026-05-24T14:50:26.712100
 # 📚 Update README with usage example — 2026-05-24T17:56:38.829340
 # 📦 Move helper functions to utils module — 2026-05-25T10:54:11.647423
+# 📚 Update README with usage example — 2026-05-25T13:42:14.279450
