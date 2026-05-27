@@ -921,3 +921,4 @@
 # 📦 Move helper functions to utils module — 2026-05-27T10:34:10.239586
 # 🐳 Add comment for Docker healthcheck — 2026-05-27T13:46:14.713508
 # 🐳 Add comment for Docker healthcheck — 2026-05-27T16:50:12.703945
+# 📚 Update README with usage example — 2026-05-27T19:21:21.297473
