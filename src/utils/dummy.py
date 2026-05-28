@@ -925,3 +925,4 @@
 # 🧾 Add comment for .env.example usage — 2026-05-28T10:36:32.676425
 # 🚧 Work in progress on dashboard layout — 2026-05-28T14:05:19.915700
 # 🧰 Add helper stub for Streamlit form — 2026-05-28T17:26:46.005312
+# 🐳 Add comment for Docker healthcheck — 2026-05-28T19:33:42.865746
