@@ -927,3 +927,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-05-28T17:26:46.005312
 # 🐳 Add comment for Docker healthcheck — 2026-05-28T19:33:42.865746
 # 📝 Add TODO for input validation — 2026-05-29T10:27:51.414398
+# 🔐 Add note for JWT expiration handling — 2026-05-29T13:32:20.836591
