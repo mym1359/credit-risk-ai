@@ -957,3 +957,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-06-05T10:29:15.222861
 # 🧪 Prepare test case for invalid token — 2026-06-05T12:49:28.912309
 # 🧠 Add note for future ML model tuning — 2026-06-05T16:15:24.070035
+# 📚 Update README with usage example — 2026-06-05T18:55:48.908432
