@@ -961,3 +961,4 @@
 # 🧠 Add note for future ML model tuning — 2026-06-06T09:05:59.843267
 # 📚 Update README with usage example — 2026-06-06T11:43:18.232244
 # 🧰 Add helper stub for Streamlit form — 2026-06-06T14:59:53.654268
+# 📝 Add TODO for input validation — 2026-06-06T18:02:22.277820
