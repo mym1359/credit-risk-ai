@@ -963,3 +963,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-06-06T14:59:53.654268
 # 📝 Add TODO for input validation — 2026-06-06T18:02:22.277820
 # 🧾 Add comment for .env.example usage — 2026-06-07T09:44:06.795792
+# 🧪 Prepare test case for invalid token — 2026-06-07T12:00:56.494377
