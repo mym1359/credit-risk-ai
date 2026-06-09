@@ -973,3 +973,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-06-09T10:07:00.853895
 # 📦 Update requirements for future modules — 2026-06-09T12:49:46.997837
 # 📚 Update README with usage example — 2026-06-09T16:19:15.692527
+# 🐳 Add comment for Docker healthcheck — 2026-06-09T19:10:46.902447
