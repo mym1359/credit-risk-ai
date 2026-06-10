@@ -977,3 +977,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-06-10T10:38:46.117169
 # 🔧 Refactor variable naming for clarity — 2026-06-10T13:47:30.291223
 # 📝 Add TODO for input validation — 2026-06-10T16:48:10.421004
+# 🧠 Add note for future ML model tuning — 2026-06-10T19:31:33.282214
