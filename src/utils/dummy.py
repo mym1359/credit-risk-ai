@@ -978,3 +978,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-06-10T13:47:30.291223
 # 📝 Add TODO for input validation — 2026-06-10T16:48:10.421004
 # 🧠 Add note for future ML model tuning — 2026-06-10T19:31:33.282214
+# 🔐 Add note for JWT expiration handling — 2026-06-11T11:06:18.811658
