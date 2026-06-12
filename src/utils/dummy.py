@@ -983,3 +983,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-06-11T17:07:47.529147
 # 🚧 Work in progress on dashboard layout — 2026-06-11T19:32:37.576425
 # 🧾 Add comment for .env.example usage — 2026-06-12T10:46:16.120109
+# 🔐 Add note for JWT expiration handling — 2026-06-12T13:42:46.758330
