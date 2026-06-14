@@ -990,3 +990,4 @@
 # 🧾 Add comment for .env.example usage — 2026-06-13T12:02:11.109131
 # 🐳 Add comment for Docker healthcheck — 2026-06-13T15:19:54.801768
 # 📝 Add TODO for input validation — 2026-06-13T18:04:24.622014
+# 📦 Update requirements for future modules — 2026-06-14T10:01:08.676144
