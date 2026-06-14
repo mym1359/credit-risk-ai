@@ -992,3 +992,4 @@
 # 📝 Add TODO for input validation — 2026-06-13T18:04:24.622014
 # 📦 Update requirements for future modules — 2026-06-14T10:01:08.676144
 # ⚙️ Tweak GitHub Actions trigger time — 2026-06-14T12:13:48.880247
+# 🗂️ Organize folders for CI/CD clarity — 2026-06-14T15:27:21.489731
