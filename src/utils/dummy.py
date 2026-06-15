@@ -997,3 +997,4 @@
 # 🧠 Add note for future ML model tuning — 2026-06-15T12:46:43.869364
 # 🧰 Add helper stub for Streamlit form — 2026-06-15T16:05:00.998817
 # 🚧 Work in progress on dashboard layout — 2026-06-15T18:12:55.182649
+# 🧾 Add comment for .env.example usage — 2026-06-15T20:22:14.936542
