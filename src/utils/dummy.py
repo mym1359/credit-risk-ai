@@ -999,3 +999,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-06-15T18:12:55.182649
 # 🧾 Add comment for .env.example usage — 2026-06-15T20:22:14.936542
 # ✅ Add placeholder test for edge case — 2026-06-16T11:39:12.010949
+# 🧪 Prepare test case for invalid token — 2026-06-16T15:21:42.618978
