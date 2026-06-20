@@ -1014,3 +1014,4 @@
 # 📦 Update requirements for future modules — 2026-06-19T13:48:26.991730
 # 🧾 Add comment for .env.example usage — 2026-06-19T16:18:40.194533
 # 🧾 Add comment for .env.example usage — 2026-06-19T18:51:28.140804
+# 📚 Update README with usage example — 2026-06-20T09:47:29.079209
