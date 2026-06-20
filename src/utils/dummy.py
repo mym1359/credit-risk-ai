@@ -1017,3 +1017,4 @@
 # 📚 Update README with usage example — 2026-06-20T09:47:29.079209
 # 🧰 Add helper stub for Streamlit form — 2026-06-20T12:07:10.939640
 # 🧾 Add comment for .env.example usage — 2026-06-20T15:24:04.160010
+# 📝 Add TODO for input validation — 2026-06-20T18:07:23.358311
