@@ -1015,3 +1015,4 @@
 # 🧾 Add comment for .env.example usage — 2026-06-19T16:18:40.194533
 # 🧾 Add comment for .env.example usage — 2026-06-19T18:51:28.140804
 # 📚 Update README with usage example — 2026-06-20T09:47:29.079209
+# 🧰 Add helper stub for Streamlit form — 2026-06-20T12:07:10.939640
