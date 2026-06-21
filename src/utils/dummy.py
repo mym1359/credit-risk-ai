@@ -1020,3 +1020,4 @@
 # 📝 Add TODO for input validation — 2026-06-20T18:07:23.358311
 # 📦 Update requirements for future modules — 2026-06-21T10:08:22.961149
 # 🧰 Add helper stub for Streamlit form — 2026-06-21T12:20:19.826009
+# 📦 Move helper functions to utils module — 2026-06-21T15:29:32.272395
