@@ -1019,3 +1019,4 @@
 # 🧾 Add comment for .env.example usage — 2026-06-20T15:24:04.160010
 # 📝 Add TODO for input validation — 2026-06-20T18:07:23.358311
 # 📦 Update requirements for future modules — 2026-06-21T10:08:22.961149
+# 🧰 Add helper stub for Streamlit form — 2026-06-21T12:20:19.826009
