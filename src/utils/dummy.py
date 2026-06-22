@@ -1024,3 +1024,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-06-21T18:16:27.194797
 # 🔧 Refactor variable naming for clarity — 2026-06-22T12:30:14.015805
 # 🧠 Add note for future ML model tuning — 2026-06-22T15:31:21.218164
+# 📦 Move helper functions to utils module — 2026-06-22T18:05:29.469183
