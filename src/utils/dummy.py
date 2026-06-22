@@ -1025,3 +1025,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-06-22T12:30:14.015805
 # 🧠 Add note for future ML model tuning — 2026-06-22T15:31:21.218164
 # 📦 Move helper functions to utils module — 2026-06-22T18:05:29.469183
+# 🔐 Add note for JWT expiration handling — 2026-06-22T20:06:58.386400
