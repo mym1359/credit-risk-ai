@@ -1022,3 +1022,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-06-21T12:20:19.826009
 # 📦 Move helper functions to utils module — 2026-06-21T15:29:32.272395
 # 🐳 Add comment for Docker healthcheck — 2026-06-21T18:16:27.194797
+# 🔧 Refactor variable naming for clarity — 2026-06-22T12:30:14.015805
