@@ -1032,3 +1032,4 @@
 # 🧪 Prepare test case for invalid token — 2026-06-23T19:07:19.067218
 # 🐳 Add comment for Docker healthcheck — 2026-06-24T09:54:59.643716
 # 🔐 Add note for JWT expiration handling — 2026-06-24T12:28:10.755818
+# 📦 Move helper functions to utils module — 2026-06-24T15:57:33.821066
