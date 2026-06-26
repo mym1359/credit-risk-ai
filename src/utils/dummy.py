@@ -1038,3 +1038,4 @@
 # 📦 Update requirements for future modules — 2026-06-25T12:32:06.140034
 # 📚 Update README with usage example — 2026-06-25T16:06:54.950106
 # 🗂️ Organize folders for CI/CD clarity — 2026-06-25T19:03:00.623148
+# 🧠 Add note for future ML model tuning — 2026-06-26T09:56:38.029462
