@@ -1047,3 +1047,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-06-27T15:03:17.567898
 # 🗂️ Organize folders for CI/CD clarity — 2026-06-27T17:58:24.821107
 # 🧠 Add note for future ML model tuning — 2026-06-28T09:39:08.925822
+# 🧾 Add comment for .env.example usage — 2026-06-28T11:57:35.910366
