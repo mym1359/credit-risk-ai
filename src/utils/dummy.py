@@ -1048,3 +1048,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-06-27T17:58:24.821107
 # 🧠 Add note for future ML model tuning — 2026-06-28T09:39:08.925822
 # 🧾 Add comment for .env.example usage — 2026-06-28T11:57:35.910366
+# 🗂️ Organize folders for CI/CD clarity — 2026-06-28T15:04:59.398992
