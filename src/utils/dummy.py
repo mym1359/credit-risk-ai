@@ -1053,3 +1053,4 @@
 # 🧪 Prepare test case for invalid token — 2026-06-29T11:29:34.607692
 # ⚙️ Tweak GitHub Actions trigger time — 2026-06-29T14:18:02.688171
 # 📝 Add TODO for input validation — 2026-06-29T16:46:00.026158
+# 🧾 Add comment for .env.example usage — 2026-06-29T19:02:38.229733
