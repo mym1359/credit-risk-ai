@@ -1055,3 +1055,4 @@
 # 📝 Add TODO for input validation — 2026-06-29T16:46:00.026158
 # 🧾 Add comment for .env.example usage — 2026-06-29T19:02:38.229733
 # 🔧 Refactor variable naming for clarity — 2026-06-30T10:05:09.884940
+# 🗂️ Organize folders for CI/CD clarity — 2026-06-30T12:22:52.028767
