@@ -1059,3 +1059,4 @@
 # ✅ Add placeholder test for edge case — 2026-06-30T16:09:41.201259
 # 🔐 Add note for JWT expiration handling — 2026-06-30T18:53:50.223784
 # 🧠 Add note for future ML model tuning — 2026-07-01T10:27:30.543478
+# 📦 Move helper functions to utils module — 2026-07-01T12:45:42.752249
