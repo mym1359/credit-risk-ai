@@ -1062,3 +1062,4 @@
 # 📦 Move helper functions to utils module — 2026-07-01T12:45:42.752249
 # 🔧 Refactor variable naming for clarity — 2026-07-01T16:08:54.766682
 # 🔐 Add note for JWT expiration handling — 2026-07-01T18:57:06.775272
+# 🐳 Add comment for Docker healthcheck — 2026-07-02T09:40:57.091074
