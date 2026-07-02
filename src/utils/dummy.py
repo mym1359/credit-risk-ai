@@ -1064,3 +1064,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-07-01T18:57:06.775272
 # 🐳 Add comment for Docker healthcheck — 2026-07-02T09:40:57.091074
 # 🐳 Add comment for Docker healthcheck — 2026-07-02T12:19:51.892345
+# 📦 Update requirements for future modules — 2026-07-02T15:54:07.390942
