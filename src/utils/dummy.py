@@ -1067,3 +1067,4 @@
 # 📦 Update requirements for future modules — 2026-07-02T15:54:07.390942
 # 🐳 Add comment for Docker healthcheck — 2026-07-02T18:23:31.471273
 # 📦 Update requirements for future modules — 2026-07-03T09:40:16.956443
+# 🗂️ Organize folders for CI/CD clarity — 2026-07-03T12:18:41.652593
