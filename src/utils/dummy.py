@@ -1073,3 +1073,4 @@
 # 🧠 Add note for future ML model tuning — 2026-07-04T09:03:41.230487
 # 📦 Update requirements for future modules — 2026-07-04T11:44:44.701248
 # 🧰 Add helper stub for Streamlit form — 2026-07-04T14:50:51.155834
+# 📚 Update README with usage example — 2026-07-04T17:59:32.820708
