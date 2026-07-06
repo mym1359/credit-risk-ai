@@ -1079,3 +1079,4 @@
 # 🧾 Add comment for .env.example usage — 2026-07-05T15:00:23.579432
 # 📦 Move helper functions to utils module — 2026-07-05T17:58:59.458633
 # ✅ Add placeholder test for edge case — 2026-07-06T11:10:37.179713
+# 🧪 Prepare test case for invalid token — 2026-07-06T14:00:33.671955
