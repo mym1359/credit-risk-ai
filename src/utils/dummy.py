@@ -1088,3 +1088,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-07-07T18:58:28.165377
 # 🧰 Add helper stub for Streamlit form — 2026-07-08T09:03:55.329240
 # 📚 Update README with usage example — 2026-07-08T11:56:02.952453
+# 🧾 Add comment for .env.example usage — 2026-07-08T15:52:20.166807
