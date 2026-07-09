@@ -1092,3 +1092,4 @@
 # 📦 Move helper functions to utils module — 2026-07-08T18:14:20.163033
 # 🐳 Add comment for Docker healthcheck — 2026-07-09T10:02:01.469078
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-09T16:13:37.331705
+# 📚 Update README with usage example — 2026-07-09T18:47:19.682683
