@@ -1090,3 +1090,4 @@
 # 📚 Update README with usage example — 2026-07-08T11:56:02.952453
 # 🧾 Add comment for .env.example usage — 2026-07-08T15:52:20.166807
 # 📦 Move helper functions to utils module — 2026-07-08T18:14:20.163033
+# 🐳 Add comment for Docker healthcheck — 2026-07-09T10:02:01.469078
