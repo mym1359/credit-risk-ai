@@ -1107,3 +1107,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-07-12T17:56:46.053422
 # 🧠 Add note for future ML model tuning — 2026-07-13T09:51:43.179599
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-13T12:41:06.666278
+# 🧾 Add comment for .env.example usage — 2026-07-13T16:09:44.409938
