@@ -1105,3 +1105,4 @@
 # 🧾 Add comment for .env.example usage — 2026-07-12T11:28:41.924561
 # 🧪 Prepare test case for invalid token — 2026-07-12T14:42:02.601507
 # 🔧 Refactor variable naming for clarity — 2026-07-12T17:56:46.053422
+# 🧠 Add note for future ML model tuning — 2026-07-13T09:51:43.179599
