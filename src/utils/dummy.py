@@ -1109,3 +1109,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-13T12:41:06.666278
 # 🧾 Add comment for .env.example usage — 2026-07-13T16:09:44.409938
 # 🧰 Add helper stub for Streamlit form — 2026-07-13T18:40:40.428955
+# 🗂️ Organize folders for CI/CD clarity — 2026-07-14T08:32:46.236406
