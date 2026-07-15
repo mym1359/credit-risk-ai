@@ -1113,3 +1113,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-07-14T11:42:41.476814
 # 🧰 Add helper stub for Streamlit form — 2026-07-14T15:09:31.849338
 # 📚 Update README with usage example — 2026-07-14T17:58:10.013354
+# 🔐 Add note for JWT expiration handling — 2026-07-15T08:40:15.292860
