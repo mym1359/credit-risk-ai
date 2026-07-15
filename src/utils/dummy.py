@@ -1115,3 +1115,4 @@
 # 📚 Update README with usage example — 2026-07-14T17:58:10.013354
 # 🔐 Add note for JWT expiration handling — 2026-07-15T08:40:15.292860
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-15T11:46:19.823035
+# 🗂️ Organize folders for CI/CD clarity — 2026-07-15T15:09:25.796940
