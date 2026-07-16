@@ -1118,3 +1118,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-15T15:09:25.796940
 # 🧠 Add note for future ML model tuning — 2026-07-15T18:02:16.368254
 # ⚙️ Tweak GitHub Actions trigger time — 2026-07-16T08:38:46.947063
+# 🔐 Add note for JWT expiration handling — 2026-07-16T11:52:22.974307
