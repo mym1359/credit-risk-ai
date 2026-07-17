@@ -1122,3 +1122,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-07-16T15:19:03.138903
 # 🔧 Refactor variable naming for clarity — 2026-07-16T18:02:41.123768
 # ⚙️ Tweak GitHub Actions trigger time — 2026-07-17T08:32:27.741830
+# 📚 Update README with usage example — 2026-07-17T11:38:44.222301
