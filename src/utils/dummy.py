@@ -1124,3 +1124,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-07-17T08:32:27.741830
 # 📚 Update README with usage example — 2026-07-17T11:38:44.222301
 # 🧾 Add comment for .env.example usage — 2026-07-17T15:00:07.489053
+# 🐳 Add comment for Docker healthcheck — 2026-07-17T18:01:37.032995
