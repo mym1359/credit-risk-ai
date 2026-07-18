@@ -1125,3 +1125,4 @@
 # 📚 Update README with usage example — 2026-07-17T11:38:44.222301
 # 🧾 Add comment for .env.example usage — 2026-07-17T15:00:07.489053
 # 🐳 Add comment for Docker healthcheck — 2026-07-17T18:01:37.032995
+# 🧾 Add comment for .env.example usage — 2026-07-18T08:15:23.886779
