@@ -1129,3 +1129,4 @@
 # 🧪 Prepare test case for invalid token — 2026-07-18T11:16:55.063608
 # 🧰 Add helper stub for Streamlit form — 2026-07-18T14:37:07.397646
 # 🧪 Prepare test case for invalid token — 2026-07-18T17:53:14.991102
+# 🐳 Add comment for Docker healthcheck — 2026-07-19T08:41:13.480308
