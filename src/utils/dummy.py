@@ -1136,3 +1136,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-07-20T09:40:07.542091
 # 🚧 Work in progress on dashboard layout — 2026-07-20T12:25:21.134710
 # 🚧 Work in progress on dashboard layout — 2026-07-20T15:30:58.582037
+# 🧾 Add comment for .env.example usage — 2026-07-20T18:50:10.519040
