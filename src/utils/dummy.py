@@ -1140,3 +1140,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-07-21T09:07:08.336400
 # 🧪 Prepare test case for invalid token — 2026-07-21T11:58:21.111961
 # 🐳 Add comment for Docker healthcheck — 2026-07-21T15:23:33.358997
+# 🧾 Add comment for .env.example usage — 2026-07-21T18:13:22.967251
