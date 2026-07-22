@@ -1144,3 +1144,4 @@
 # ✅ Add placeholder test for edge case — 2026-07-22T09:06:13.716577
 # 🐳 Add comment for Docker healthcheck — 2026-07-22T12:01:39.625864
 # 🧠 Add note for future ML model tuning — 2026-07-22T15:21:14.019510
+# 📚 Update README with usage example — 2026-07-22T18:04:59.612004
