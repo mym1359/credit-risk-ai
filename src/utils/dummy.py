@@ -1146,3 +1146,4 @@
 # 🧠 Add note for future ML model tuning — 2026-07-22T15:21:14.019510
 # 📚 Update README with usage example — 2026-07-22T18:04:59.612004
 # 🧪 Prepare test case for invalid token — 2026-07-23T09:04:59.983612
+# 🧰 Add helper stub for Streamlit form — 2026-07-23T12:01:04.374323
