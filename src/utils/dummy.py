@@ -1148,3 +1148,4 @@
 # 🧪 Prepare test case for invalid token — 2026-07-23T09:04:59.983612
 # 🧰 Add helper stub for Streamlit form — 2026-07-23T12:01:04.374323
 # 🔐 Add note for JWT expiration handling — 2026-07-23T15:34:22.522450
+# 🧾 Add comment for .env.example usage — 2026-07-23T18:09:22.655146
