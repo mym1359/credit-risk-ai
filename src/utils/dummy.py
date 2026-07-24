@@ -1150,3 +1150,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-07-23T15:34:22.522450
 # 🧾 Add comment for .env.example usage — 2026-07-23T18:09:22.655146
 # ✅ Add placeholder test for edge case — 2026-07-24T09:01:29.927049
+# 📦 Move helper functions to utils module — 2026-07-24T11:54:30.416536
