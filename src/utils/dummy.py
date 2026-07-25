@@ -1153,3 +1153,4 @@
 # 📦 Move helper functions to utils module — 2026-07-24T11:54:30.416536
 # 🧾 Add comment for .env.example usage — 2026-07-24T15:14:36.975346
 # 🐳 Add comment for Docker healthcheck — 2026-07-24T18:15:22.303349
+# 📦 Move helper functions to utils module — 2026-07-25T08:27:31.977867
