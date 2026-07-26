@@ -1158,3 +1158,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-25T14:47:54.979748
 # 📝 Add TODO for input validation — 2026-07-25T17:56:01.033618
 # ✅ Add placeholder test for edge case — 2026-07-26T08:43:28.027233
+# 📚 Update README with usage example — 2026-07-26T11:35:19.869148
