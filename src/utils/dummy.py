@@ -1161,3 +1161,4 @@
 # 📚 Update README with usage example — 2026-07-26T11:35:19.869148
 # 🧠 Add note for future ML model tuning — 2026-07-26T14:50:06.925967
 # 📝 Add TODO for input validation — 2026-07-26T17:58:33.925684
+# 🐳 Add comment for Docker healthcheck — 2026-07-27T10:13:51.623956
