@@ -1177,3 +1177,4 @@
 # 🧪 Prepare test case for invalid token — 2026-07-30T12:02:24.311161
 # 📝 Add TODO for input validation — 2026-07-30T15:34:08.945474
 # 🗂️ Organize folders for CI/CD clarity — 2026-07-30T18:12:25.788425
+# 📚 Update README with usage example — 2026-07-31T09:21:49.703632
