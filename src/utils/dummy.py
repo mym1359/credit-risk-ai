@@ -1183,3 +1183,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-07-31T18:16:15.683939
 # 🗂️ Organize folders for CI/CD clarity — 2026-08-01T08:38:05.287240
 # 📚 Update README with usage example — 2026-08-01T11:33:28.058623
+# 📦 Move helper functions to utils module — 2026-08-01T14:46:02.652419
