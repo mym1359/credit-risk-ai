@@ -1182,3 +1182,4 @@
 # 🧠 Add note for future ML model tuning — 2026-07-31T15:47:17.884646
 # ⚙️ Tweak GitHub Actions trigger time — 2026-07-31T18:16:15.683939
 # 🗂️ Organize folders for CI/CD clarity — 2026-08-01T08:38:05.287240
+# 📚 Update README with usage example — 2026-08-01T11:33:28.058623
