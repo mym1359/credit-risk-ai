@@ -1188,3 +1188,4 @@
 # 🧪 Prepare test case for invalid token — 2026-08-02T08:42:09.867530
 # 🔐 Add note for JWT expiration handling — 2026-08-02T11:33:00.121775
 # 🗂️ Organize folders for CI/CD clarity — 2026-08-02T14:48:35.364607
+# 📦 Move helper functions to utils module — 2026-08-02T17:57:48.132075
