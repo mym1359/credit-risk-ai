@@ -1192,3 +1192,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-08-03T10:10:46.887943
 # 🔧 Refactor variable naming for clarity — 2026-08-03T13:18:05.914515
 # 🐳 Add comment for Docker healthcheck — 2026-08-03T16:06:01.269768
+# 🧾 Add comment for .env.example usage — 2026-08-03T18:47:23.413369
