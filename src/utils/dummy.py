@@ -1194,3 +1194,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-08-03T16:06:01.269768
 # 🧾 Add comment for .env.example usage — 2026-08-03T18:47:23.413369
 # 🧪 Prepare test case for invalid token — 2026-08-04T09:18:21.693856
+# 📚 Update README with usage example — 2026-08-04T12:16:31.447451
