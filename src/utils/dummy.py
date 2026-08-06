@@ -1202,3 +1202,4 @@
 # 📝 Add TODO for input validation — 2026-08-05T15:48:47.816711
 # 🚧 Work in progress on dashboard layout — 2026-08-05T18:17:03.207143
 # 🔧 Refactor variable naming for clarity — 2026-08-06T09:19:29.177174
+# 🐳 Add comment for Docker healthcheck — 2026-08-06T12:16:15.269602
