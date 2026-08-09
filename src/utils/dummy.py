@@ -1214,3 +1214,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-08-09T07:30:00.005499
 # 🚧 Work in progress on dashboard layout — 2026-08-09T10:50:27.804712
 # 🧰 Add helper stub for Streamlit form — 2026-08-09T14:17:09.512722
+# 🧠 Add note for future ML model tuning — 2026-08-09T17:26:37.276178
