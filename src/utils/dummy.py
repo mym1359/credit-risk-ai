@@ -1234,3 +1234,4 @@
 # 🧠 Add note for future ML model tuning — 2026-08-14T07:55:55.603485
 # 📚 Update README with usage example — 2026-08-14T11:06:52.284935
 # 📚 Update README with usage example — 2026-08-14T14:34:49.335755
+# 🐳 Add comment for Docker healthcheck — 2026-08-14T17:48:56.632200
