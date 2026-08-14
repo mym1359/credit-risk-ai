@@ -1231,3 +1231,4 @@
 # 🧾 Add comment for .env.example usage — 2026-08-13T11:09:21.320748
 # 🔧 Refactor variable naming for clarity — 2026-08-13T14:40:09.909892
 # 🔧 Refactor variable naming for clarity — 2026-08-13T17:54:06.077509
+# 🧠 Add note for future ML model tuning — 2026-08-14T07:55:55.603485
