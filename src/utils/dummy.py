@@ -1235,3 +1235,4 @@
 # 📚 Update README with usage example — 2026-08-14T11:06:52.284935
 # 📚 Update README with usage example — 2026-08-14T14:34:49.335755
 # 🐳 Add comment for Docker healthcheck — 2026-08-14T17:48:56.632200
+# 🧪 Prepare test case for invalid token — 2026-08-15T07:05:16.634694
