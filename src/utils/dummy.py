@@ -1241,3 +1241,4 @@
 # 🧠 Add note for future ML model tuning — 2026-08-15T17:16:43.965523
 # 📦 Move helper functions to utils module — 2026-08-16T07:07:34.281064
 # 🧰 Add helper stub for Streamlit form — 2026-08-16T10:36:56.645755
+# 🐳 Add comment for Docker healthcheck — 2026-08-16T13:56:28.835701
