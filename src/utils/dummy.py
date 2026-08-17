@@ -1245,3 +1245,4 @@
 # 📝 Add TODO for input validation — 2026-08-16T17:15:06.904836
 # 🧾 Add comment for .env.example usage — 2026-08-17T07:29:46.266650
 # 🧾 Add comment for .env.example usage — 2026-08-17T10:46:48.072024
+# 🧰 Add helper stub for Streamlit form — 2026-08-17T14:03:40.230229
