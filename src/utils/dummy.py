@@ -1250,3 +1250,4 @@
 # 🧠 Add note for future ML model tuning — 2026-08-18T07:12:24.415001
 # 🔧 Refactor variable naming for clarity — 2026-08-18T10:44:08.665702
 # 🔐 Add note for JWT expiration handling — 2026-08-18T14:15:11.572737
+# 🧾 Add comment for .env.example usage — 2026-08-18T17:21:50.999757
