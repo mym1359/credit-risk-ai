@@ -1251,3 +1251,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-08-18T10:44:08.665702
 # 🔐 Add note for JWT expiration handling — 2026-08-18T14:15:11.572737
 # 🧾 Add comment for .env.example usage — 2026-08-18T17:21:50.999757
+# 🗂️ Organize folders for CI/CD clarity — 2026-08-19T07:12:50.348050
