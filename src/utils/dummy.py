@@ -1257,3 +1257,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-08-19T17:21:57.051302
 # ✅ Add placeholder test for edge case — 2026-08-20T07:21:03.083717
 # 🚧 Work in progress on dashboard layout — 2026-08-20T10:44:56.592984
+# 🧾 Add comment for .env.example usage — 2026-08-20T14:17:58.411198
