@@ -1261,3 +1261,4 @@
 # 🧾 Add comment for .env.example usage — 2026-08-20T17:24:08.881194
 # 📝 Add TODO for input validation — 2026-08-21T07:21:42.307103
 # 📝 Add TODO for input validation — 2026-08-21T10:44:42.306678
+# 📦 Move helper functions to utils module — 2026-08-21T14:16:17.401739
