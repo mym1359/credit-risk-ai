@@ -1276,3 +1276,4 @@
 # 🧾 Add comment for .env.example usage — 2026-08-24T14:22:07.444526
 # 📦 Move helper functions to utils module — 2026-08-24T17:26:16.316899
 # 🧾 Add comment for .env.example usage — 2026-08-25T07:23:04.869340
+# 📚 Update README with usage example — 2026-08-25T10:47:38.491300
