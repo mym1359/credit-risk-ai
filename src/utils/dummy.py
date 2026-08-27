@@ -1284,3 +1284,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-08-26T14:22:24.126850
 # 📦 Update requirements for future modules — 2026-08-26T18:55:10.549246
 # 🔐 Add note for JWT expiration handling — 2026-08-27T17:45:15.604755
+# 🗂️ Organize folders for CI/CD clarity — 2026-08-27T20:28:32.221125
