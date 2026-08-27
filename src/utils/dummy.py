@@ -1283,3 +1283,4 @@
 # ✅ Add placeholder test for edge case — 2026-08-26T10:49:48.823430
 # 🧰 Add helper stub for Streamlit form — 2026-08-26T14:22:24.126850
 # 📦 Update requirements for future modules — 2026-08-26T18:55:10.549246
+# 🔐 Add note for JWT expiration handling — 2026-08-27T17:45:15.604755
