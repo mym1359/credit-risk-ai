@@ -1286,3 +1286,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-08-27T17:45:15.604755
 # 🗂️ Organize folders for CI/CD clarity — 2026-08-27T20:28:32.221125
 # 📝 Add TODO for input validation — 2026-08-27T23:02:51.376748
+# 🧰 Add helper stub for Streamlit form — 2026-08-28T01:14:53.569454
