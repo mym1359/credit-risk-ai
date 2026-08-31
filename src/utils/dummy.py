@@ -1299,3 +1299,4 @@
 # 📦 Move helper functions to utils module — 2026-08-30T14:51:14.213746
 # 🧪 Prepare test case for invalid token — 2026-08-30T17:44:54.344096
 # ✅ Add placeholder test for edge case — 2026-08-30T19:37:05.746073
+# 🧰 Add helper stub for Streamlit form — 2026-08-31T14:13:38.673018
