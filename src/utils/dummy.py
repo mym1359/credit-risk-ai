@@ -1301,3 +1301,4 @@
 # ✅ Add placeholder test for edge case — 2026-08-30T19:37:05.746073
 # 🧰 Add helper stub for Streamlit form — 2026-08-31T14:13:38.673018
 # 📚 Update README with usage example — 2026-08-31T17:35:57.784876
+# 📦 Move helper functions to utils module — 2026-08-31T19:37:39.857285
