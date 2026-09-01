@@ -1304,3 +1304,4 @@
 # 📦 Move helper functions to utils module — 2026-08-31T19:37:39.857285
 # 📦 Update requirements for future modules — 2026-08-31T21:43:10.938183
 # 🔧 Refactor variable naming for clarity — 2026-09-01T11:52:25.175220
+# 🐳 Add comment for Docker healthcheck — 2026-09-01T14:51:13.489478
