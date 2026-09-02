@@ -1309,3 +1309,4 @@
 # 🧪 Prepare test case for invalid token — 2026-09-01T19:43:25.370833
 # 🗂️ Organize folders for CI/CD clarity — 2026-09-02T11:33:09.120613
 # 📦 Update requirements for future modules — 2026-09-02T14:27:10.745713
+# 🔐 Add note for JWT expiration handling — 2026-09-02T17:18:32.999075
