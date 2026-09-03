@@ -1311,3 +1311,4 @@
 # 📦 Update requirements for future modules — 2026-09-02T14:27:10.745713
 # 🔐 Add note for JWT expiration handling — 2026-09-02T17:18:32.999075
 # 🧪 Prepare test case for invalid token — 2026-09-02T19:36:43.589604
+# 🐳 Add comment for Docker healthcheck — 2026-09-03T11:29:15.580507
