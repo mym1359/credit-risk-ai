@@ -1326,3 +1326,4 @@
 # 🧾 Add comment for .env.example usage — 2026-09-06T11:10:07.498879
 # 🧠 Add note for future ML model tuning — 2026-09-06T13:39:48.517132
 # 📦 Update requirements for future modules — 2026-09-06T16:24:45.298039
+# 📦 Move helper functions to utils module — 2026-09-06T18:49:11.551327
