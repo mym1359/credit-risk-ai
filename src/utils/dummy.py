@@ -1323,3 +1323,4 @@
 # 📚 Update README with usage example — 2026-09-05T13:26:57.303592
 # 🚧 Work in progress on dashboard layout — 2026-09-05T16:13:52.550530
 # ⚙️ Tweak GitHub Actions trigger time — 2026-09-05T18:45:43.839132
+# 🧾 Add comment for .env.example usage — 2026-09-06T11:10:07.498879
