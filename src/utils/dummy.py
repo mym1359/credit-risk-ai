@@ -1328,3 +1328,4 @@
 # 📦 Update requirements for future modules — 2026-09-06T16:24:45.298039
 # 📦 Move helper functions to utils module — 2026-09-06T18:49:11.551327
 # 🧰 Add helper stub for Streamlit form — 2026-09-07T12:51:25.456541
+# 🐳 Add comment for Docker healthcheck — 2026-09-07T15:49:18.000278
