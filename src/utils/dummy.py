@@ -1334,3 +1334,4 @@
 # 📝 Add TODO for input validation — 2026-09-08T11:32:23.375081
 # 📚 Update README with usage example — 2026-09-08T14:30:40.011999
 # 📝 Add TODO for input validation — 2026-09-08T17:27:38.381050
+# 🐳 Add comment for Docker healthcheck — 2026-09-08T19:42:34.699597
