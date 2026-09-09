@@ -1337,3 +1337,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-09-08T19:42:34.699597
 # 🧰 Add helper stub for Streamlit form — 2026-09-09T11:39:10.644712
 # 🧠 Add note for future ML model tuning — 2026-09-09T14:33:47.788709
+# 📚 Update README with usage example — 2026-09-09T17:15:07.499856
