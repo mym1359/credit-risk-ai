@@ -1338,3 +1338,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-09-09T11:39:10.644712
 # 🧠 Add note for future ML model tuning — 2026-09-09T14:33:47.788709
 # 📚 Update README with usage example — 2026-09-09T17:15:07.499856
+# 🗂️ Organize folders for CI/CD clarity — 2026-09-09T19:34:59.382652
