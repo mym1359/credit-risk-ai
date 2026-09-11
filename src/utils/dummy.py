@@ -1346,3 +1346,4 @@
 # 📝 Add TODO for input validation — 2026-09-11T11:38:17.995298
 # 📦 Update requirements for future modules — 2026-09-11T14:24:02.874414
 # 📝 Add TODO for input validation — 2026-09-11T17:11:02.285351
+# 🧾 Add comment for .env.example usage — 2026-09-11T19:24:42.244648
