@@ -1359,3 +1359,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-09-14T16:21:05.371288
 # 🚧 Work in progress on dashboard layout — 2026-09-14T18:50:55.164283
 # 🔐 Add note for JWT expiration handling — 2026-09-14T20:43:13.076071
+# 📦 Move helper functions to utils module — 2026-09-15T11:57:13.441855
