@@ -1363,3 +1363,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-09-15T14:58:27.890457
 # 🔧 Refactor variable naming for clarity — 2026-09-15T17:45:09.192094
 # ✅ Add placeholder test for edge case — 2026-09-15T19:57:19.058893
+# 📚 Update README with usage example — 2026-09-16T11:53:05.994326
