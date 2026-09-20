@@ -1380,3 +1380,4 @@
 # ✅ Add placeholder test for edge case — 2026-09-19T16:47:08.197181
 # 📦 Update requirements for future modules — 2026-09-19T19:07:49.222291
 # 🧪 Prepare test case for invalid token — 2026-09-20T11:40:01.221065
+# 🔐 Add note for JWT expiration handling — 2026-09-20T14:12:45.331596
