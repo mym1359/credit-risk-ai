@@ -1384,3 +1384,4 @@
 # 📦 Move helper functions to utils module — 2026-09-20T16:57:14.472041
 # 📦 Update requirements for future modules — 2026-09-20T19:14:18.762879
 # 📚 Update README with usage example — 2026-09-21T13:06:13.801115
+# 🧠 Add note for future ML model tuning — 2026-09-21T16:27:25.349608
