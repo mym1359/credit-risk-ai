@@ -1396,3 +1396,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-09-23T17:57:23.979709
 # 📝 Add TODO for input validation — 2026-09-23T19:56:38.946054
 # 🔧 Refactor variable naming for clarity — 2026-09-24T12:02:00.886409
+# 📦 Move helper functions to utils module — 2026-09-24T15:02:49.142825
