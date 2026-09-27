@@ -1407,3 +1407,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-09-26T14:27:40.247358
 # 🔐 Add note for JWT expiration handling — 2026-09-26T17:22:20.218129
 # 🧾 Add comment for .env.example usage — 2026-09-26T19:30:58.425472
+# 📚 Update README with usage example — 2026-09-27T12:15:53.850064
