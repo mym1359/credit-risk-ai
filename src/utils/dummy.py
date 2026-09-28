@@ -1411,3 +1411,4 @@
 # 🧾 Add comment for .env.example usage — 2026-09-27T15:08:36.814730
 # 📦 Update requirements for future modules — 2026-09-27T17:55:52.007443
 # 🗂️ Organize folders for CI/CD clarity — 2026-09-27T19:57:09.134212
+# 📚 Update README with usage example — 2026-09-28T14:16:48.413449
