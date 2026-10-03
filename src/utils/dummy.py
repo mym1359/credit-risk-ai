@@ -1431,3 +1431,4 @@
 # 🧠 Add note for future ML model tuning — 2026-10-02T16:15:03.122419
 # 🧠 Add note for future ML model tuning — 2026-10-02T18:39:59.966697
 # 🗂️ Organize folders for CI/CD clarity — 2026-10-02T21:07:47.646749
+# 📚 Update README with usage example — 2026-10-03T11:52:19.459382
