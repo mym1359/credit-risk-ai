@@ -1437,3 +1437,4 @@
 # 📚 Update README with usage example — 2026-10-03T19:39:27.892094
 # 📝 Add TODO for input validation — 2026-10-04T12:40:29.271949
 # 📝 Add TODO for input validation — 2026-10-04T15:20:14.937435
+# 🧾 Add comment for .env.example usage — 2026-10-04T17:48:50.595587
