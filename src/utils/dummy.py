@@ -1441,3 +1441,4 @@
 # 📝 Add TODO for input validation — 2026-10-04T19:53:12.605007
 # ✅ Add placeholder test for edge case — 2026-10-05T15:04:56.986888
 # ✅ Add placeholder test for edge case — 2026-10-05T19:16:40.015706
+# 📦 Move helper functions to utils module — 2026-10-05T21:13:16.875198
