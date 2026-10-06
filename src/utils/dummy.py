@@ -1443,3 +1443,4 @@
 # ✅ Add placeholder test for edge case — 2026-10-05T19:16:40.015706
 # 📦 Move helper functions to utils module — 2026-10-05T21:13:16.875198
 # 🔐 Add note for JWT expiration handling — 2026-10-05T23:02:10.225514
+# 🗂️ Organize folders for CI/CD clarity — 2026-10-06T13:28:50.721597
