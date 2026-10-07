@@ -1449,3 +1449,4 @@
 # 🧪 Prepare test case for invalid token — 2026-10-06T21:25:18.682799
 # 🔧 Refactor variable naming for clarity — 2026-10-07T13:40:49.960323
 # 🔧 Refactor variable naming for clarity — 2026-10-07T17:24:30.459450
+# 📦 Move helper functions to utils module — 2026-10-07T19:30:31.513341
