@@ -1451,3 +1451,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-10-07T17:24:30.459450
 # 📦 Move helper functions to utils module — 2026-10-07T19:30:31.513341
 # 📚 Update README with usage example — 2026-10-07T21:44:41.969463
+# 🧾 Add comment for .env.example usage — 2026-10-08T13:49:13.575489
