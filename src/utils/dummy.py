@@ -1458,3 +1458,4 @@
 # 🧾 Add comment for .env.example usage — 2026-10-09T13:33:29.916382
 # 🗂️ Organize folders for CI/CD clarity — 2026-10-09T16:58:23.340785
 # 📦 Move helper functions to utils module — 2026-10-09T18:58:09.811812
+# 🐳 Add comment for Docker healthcheck — 2026-10-09T21:26:40.021575
