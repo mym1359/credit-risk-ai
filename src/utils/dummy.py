@@ -1461,3 +1461,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-10-09T21:26:40.021575
 # 📦 Update requirements for future modules — 2026-10-10T12:48:52.210957
 # 🧠 Add note for future ML model tuning — 2026-10-10T15:51:30.038677
+# 📦 Move helper functions to utils module — 2026-10-10T17:59:16.660325
