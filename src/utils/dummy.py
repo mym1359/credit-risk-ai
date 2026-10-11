@@ -1464,3 +1464,4 @@
 # 📦 Move helper functions to utils module — 2026-10-10T17:59:16.660325
 # 🧰 Add helper stub for Streamlit form — 2026-10-10T20:26:35.149798
 # ⚙️ Tweak GitHub Actions trigger time — 2026-10-11T13:12:50.365442
+# 🧾 Add comment for .env.example usage — 2026-10-11T16:18:09.310161
