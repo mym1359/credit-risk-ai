@@ -1472,3 +1472,4 @@
 # 📝 Add TODO for input validation — 2026-10-12T21:50:58.974495
 # 🔧 Refactor variable naming for clarity — 2026-10-12T23:26:34.638961
 # 🐳 Add comment for Docker healthcheck — 2026-10-13T14:26:47.530866
+# 🗂️ Organize folders for CI/CD clarity — 2026-10-13T17:34:34.004040
