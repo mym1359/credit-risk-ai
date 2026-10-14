@@ -1475,3 +1475,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-10-13T17:34:34.004040
 # ✅ Add placeholder test for edge case — 2026-10-13T19:56:41.423739
 # 🚧 Work in progress on dashboard layout — 2026-10-13T21:41:59.580898
+# 🐳 Add comment for Docker healthcheck — 2026-10-14T12:12:01.050384
