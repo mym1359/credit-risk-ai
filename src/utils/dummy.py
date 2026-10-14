@@ -1476,3 +1476,4 @@
 # ✅ Add placeholder test for edge case — 2026-10-13T19:56:41.423739
 # 🚧 Work in progress on dashboard layout — 2026-10-13T21:41:59.580898
 # 🐳 Add comment for Docker healthcheck — 2026-10-14T12:12:01.050384
+# 📦 Move helper functions to utils module — 2026-10-14T15:05:39.006910
