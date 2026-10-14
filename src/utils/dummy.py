@@ -1477,3 +1477,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-10-13T21:41:59.580898
 # 🐳 Add comment for Docker healthcheck — 2026-10-14T12:12:01.050384
 # 📦 Move helper functions to utils module — 2026-10-14T15:05:39.006910
+# 🧠 Add note for future ML model tuning — 2026-10-14T18:09:08.714542
