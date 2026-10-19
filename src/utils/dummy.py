@@ -1496,3 +1496,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-10-18T16:51:49.988222
 # 📚 Update README with usage example — 2026-10-18T19:11:49.281069
 # 🧠 Add note for future ML model tuning — 2026-10-19T13:45:18.662679
+# 🐳 Add comment for Docker healthcheck — 2026-10-19T16:58:08.782016
