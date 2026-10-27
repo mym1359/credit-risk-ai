@@ -1527,3 +1527,4 @@
 # 🚧 Work in progress on dashboard layout — 2026-10-26T16:46:21.692904
 # 🔐 Add note for JWT expiration handling — 2026-10-26T19:31:42.965059
 # 🔐 Add note for JWT expiration handling — 2026-10-26T21:17:36.146488
+# 🐳 Add comment for Docker healthcheck — 2026-10-27T12:30:38.266586
