@@ -1535,3 +1535,4 @@
 # 🧾 Add comment for .env.example usage — 2026-10-28T16:35:44.221571
 # 📝 Add TODO for input validation — 2026-10-28T19:04:54.104346
 # ⚙️ Tweak GitHub Actions trigger time — 2026-10-28T21:28:53.490457
+# 🐳 Add comment for Docker healthcheck — 2026-10-29T13:27:44.061947
