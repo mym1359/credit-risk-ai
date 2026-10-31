@@ -1543,3 +1543,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-10-30T16:40:54.845526
 # 📦 Update requirements for future modules — 2026-10-30T18:49:15.830115
 # 🐳 Add comment for Docker healthcheck — 2026-10-30T21:21:30.737977
+# 📦 Move helper functions to utils module — 2026-10-31T12:54:04.546349
