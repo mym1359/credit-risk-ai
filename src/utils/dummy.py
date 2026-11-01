@@ -1549,3 +1549,4 @@
 # 🧠 Add note for future ML model tuning — 2026-10-31T20:22:57.767346
 # 🔧 Refactor variable naming for clarity — 2026-11-01T13:39:58.326776
 # 🧠 Add note for future ML model tuning — 2026-11-01T16:47:30.696485
+# 🐳 Add comment for Docker healthcheck — 2026-11-01T18:31:53.824687
