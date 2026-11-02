@@ -1554,3 +1554,4 @@
 # 📚 Update README with usage example — 2026-11-02T16:23:09.703069
 # ⚙️ Tweak GitHub Actions trigger time — 2026-11-02T20:19:34.438122
 # ⚙️ Tweak GitHub Actions trigger time — 2026-11-02T22:27:26.238841
+# 🐳 Add comment for Docker healthcheck — 2026-11-02T23:46:09.286188
