@@ -1551,3 +1551,4 @@
 # 🧠 Add note for future ML model tuning — 2026-11-01T16:47:30.696485
 # 🐳 Add comment for Docker healthcheck — 2026-11-01T18:31:53.824687
 # 📦 Update requirements for future modules — 2026-11-01T20:56:51.232587
+# 📚 Update README with usage example — 2026-11-02T16:23:09.703069
