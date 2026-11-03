@@ -1555,3 +1555,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-11-02T20:19:34.438122
 # ⚙️ Tweak GitHub Actions trigger time — 2026-11-02T22:27:26.238841
 # 🐳 Add comment for Docker healthcheck — 2026-11-02T23:46:09.286188
+# 🗂️ Organize folders for CI/CD clarity — 2026-11-03T14:30:10.133008
