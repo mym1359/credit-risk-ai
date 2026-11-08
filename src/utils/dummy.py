@@ -1578,3 +1578,4 @@
 # 🔧 Refactor variable naming for clarity — 2026-11-08T13:43:16.431096
 # 📝 Add TODO for input validation — 2026-11-08T16:38:47.958191
 # 📦 Update requirements for future modules — 2026-11-08T18:29:05.765193
+# 🔐 Add note for JWT expiration handling — 2026-11-08T20:56:14.495840
