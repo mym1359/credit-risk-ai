@@ -1584,3 +1584,4 @@
 # ✅ Add placeholder test for edge case — 2026-11-09T23:07:50.549749
 # 📦 Update requirements for future modules — 2026-11-10T00:31:21.119443
 # 📚 Update README with usage example — 2026-11-10T15:05:34.236246
+# 🧾 Add comment for .env.example usage — 2026-11-10T17:46:07.476832
