@@ -1589,3 +1589,4 @@
 # 📝 Add TODO for input validation — 2026-11-10T22:07:08.480992
 # 📝 Add TODO for input validation — 2026-11-11T14:36:59.666072
 # 🧰 Add helper stub for Streamlit form — 2026-11-11T17:52:07.251206
+# 🧠 Add note for future ML model tuning — 2026-11-11T23:16:00.077662
