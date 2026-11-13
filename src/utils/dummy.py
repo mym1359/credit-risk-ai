@@ -1594,3 +1594,4 @@
 # 📦 Update requirements for future modules — 2026-11-12T18:15:15.304764
 # ✅ Add placeholder test for edge case — 2026-11-12T21:04:36.444741
 # 🧰 Add helper stub for Streamlit form — 2026-11-12T22:32:27.278280
+# 📚 Update README with usage example — 2026-11-13T14:45:42.105733
