@@ -1598,3 +1598,4 @@
 # 📦 Move helper functions to utils module — 2026-11-13T17:41:52.049480
 # 🐳 Add comment for Docker healthcheck — 2026-11-13T20:38:23.003918
 # 🧠 Add note for future ML model tuning — 2026-11-13T22:21:01.738869
+# 🧾 Add comment for .env.example usage — 2026-11-14T13:42:12.914282
