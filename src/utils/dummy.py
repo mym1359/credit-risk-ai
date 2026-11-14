@@ -1601,3 +1601,4 @@
 # 🧾 Add comment for .env.example usage — 2026-11-14T13:42:12.914282
 # 🗂️ Organize folders for CI/CD clarity — 2026-11-14T16:34:37.652523
 # 📝 Add TODO for input validation — 2026-11-14T18:50:28.062467
+# 🧪 Prepare test case for invalid token — 2026-11-14T21:03:07.865623
