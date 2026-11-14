@@ -1600,3 +1600,4 @@
 # 🧠 Add note for future ML model tuning — 2026-11-13T22:21:01.738869
 # 🧾 Add comment for .env.example usage — 2026-11-14T13:42:12.914282
 # 🗂️ Organize folders for CI/CD clarity — 2026-11-14T16:34:37.652523
+# 📝 Add TODO for input validation — 2026-11-14T18:50:28.062467
