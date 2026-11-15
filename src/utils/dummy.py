@@ -1605,3 +1605,4 @@
 # 🧠 Add note for future ML model tuning — 2026-11-15T14:10:44.206703
 # ⚙️ Tweak GitHub Actions trigger time — 2026-11-15T17:04:18.025983
 # 📦 Move helper functions to utils module — 2026-11-15T19:27:17.459123
+# 🐳 Add comment for Docker healthcheck — 2026-11-15T21:26:53.158737
