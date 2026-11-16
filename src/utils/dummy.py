@@ -1607,3 +1607,4 @@
 # 📦 Move helper functions to utils module — 2026-11-15T19:27:17.459123
 # 🐳 Add comment for Docker healthcheck — 2026-11-15T21:26:53.158737
 # 🗂️ Organize folders for CI/CD clarity — 2026-11-16T16:12:33.430083
+# 🔐 Add note for JWT expiration handling — 2026-11-16T20:25:04.835928
