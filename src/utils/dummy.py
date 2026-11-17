@@ -1611,3 +1611,4 @@
 # 🐳 Add comment for Docker healthcheck — 2026-11-16T23:00:17.070239
 # 📝 Add TODO for input validation — 2026-11-17T00:37:37.207234
 # 🧾 Add comment for .env.example usage — 2026-11-17T16:18:52.456674
+# 🔐 Add note for JWT expiration handling — 2026-11-17T19:09:05.856047
