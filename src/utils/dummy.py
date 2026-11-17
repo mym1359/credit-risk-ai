@@ -1612,3 +1612,4 @@
 # 📝 Add TODO for input validation — 2026-11-17T00:37:37.207234
 # 🧾 Add comment for .env.example usage — 2026-11-17T16:18:52.456674
 # 🔐 Add note for JWT expiration handling — 2026-11-17T19:09:05.856047
+# 🧪 Prepare test case for invalid token — 2026-11-17T21:53:15.952452
