@@ -1614,3 +1614,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-11-17T19:09:05.856047
 # 🧪 Prepare test case for invalid token — 2026-11-17T21:53:15.952452
 # 🧪 Prepare test case for invalid token — 2026-11-17T23:43:17.624955
+# 📦 Move helper functions to utils module — 2026-11-18T15:52:35.530632
