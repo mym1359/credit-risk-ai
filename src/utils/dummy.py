@@ -1618,3 +1618,4 @@
 # 🗂️ Organize folders for CI/CD clarity — 2026-11-18T18:49:39.518115
 # 🚧 Work in progress on dashboard layout — 2026-11-18T21:33:46.667842
 # 📚 Update README with usage example — 2026-11-18T23:14:42.292632
+# 🧠 Add note for future ML model tuning — 2026-11-19T15:56:21.374176
