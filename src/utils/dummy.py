@@ -1622,3 +1622,4 @@
 # 📦 Move helper functions to utils module — 2026-11-19T18:58:07.253346
 # 🧰 Add helper stub for Streamlit form — 2026-11-19T21:46:46.814890
 # 🔧 Refactor variable naming for clarity — 2026-11-19T23:23:09.456735
+# 📝 Add TODO for input validation — 2026-11-20T15:39:35.304824
