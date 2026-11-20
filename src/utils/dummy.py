@@ -1623,3 +1623,4 @@
 # 🧰 Add helper stub for Streamlit form — 2026-11-19T21:46:46.814890
 # 🔧 Refactor variable naming for clarity — 2026-11-19T23:23:09.456735
 # 📝 Add TODO for input validation — 2026-11-20T15:39:35.304824
+# 🔐 Add note for JWT expiration handling — 2026-11-20T18:34:59.477831
