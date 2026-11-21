@@ -1626,3 +1626,4 @@
 # 🔐 Add note for JWT expiration handling — 2026-11-20T18:34:59.477831
 # 🧠 Add note for future ML model tuning — 2026-11-20T21:30:32.221011
 # 📚 Update README with usage example — 2026-11-20T22:56:20.806154
+# 🔐 Add note for JWT expiration handling — 2026-11-21T14:49:56.113163
