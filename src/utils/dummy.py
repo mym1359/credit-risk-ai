@@ -1637,3 +1637,4 @@
 # ⚙️ Tweak GitHub Actions trigger time — 2026-11-23T18:33:34.648824
 # 🧪 Prepare test case for invalid token — 2026-11-23T22:00:44.391690
 # 🧰 Add helper stub for Streamlit form — 2026-11-24T01:10:59.932039
+# 🐳 Add comment for Docker healthcheck — 2026-11-24T03:07:47.786964
