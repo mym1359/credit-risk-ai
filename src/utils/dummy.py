@@ -1651,3 +1651,4 @@
 # 📦 Update requirements for future modules — 2026-11-26T22:33:31.563031
 # 📝 Add TODO for input validation — 2026-11-27T00:55:14.157976
 # 📦 Move helper functions to utils module — 2026-11-27T16:52:49.309533
+# 🧾 Add comment for .env.example usage — 2026-11-27T19:27:00.580943
